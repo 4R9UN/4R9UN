@@ -84,11 +84,14 @@ My latest projects, certified by the MCP Hub, are designed to supercharge securi
 
 <!-- GITHUB STATS -->
 
+
 ## GitHub Stats 📊
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4R9UN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4R9UN&layout=compact&langs_count=16&theme=dracula&include_all_commits=true"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4R9UN&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4R9UN&layout=compact&langs_count=16&theme=cyberpunk&include_all_commits=true" alt="Top Languages"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=4R9UN&theme=cyberpunk&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=cyberpunk&no-frame=true&margin-w=5&column=4" alt="GitHub Trophies"/>
 </div>
 
 <!-- ANIMATION -->
