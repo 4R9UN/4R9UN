@@ -23,9 +23,9 @@ I'm passionate about defending digital ecosystems through advanced threat huntin
 
 - **LinkedIn:** [imarjuntrivedi](https://www.linkedin.com/in/imarjuntrivedi/)
 - **GitHub:** [4R9UN](https://github.com/4R9UN)
-- **Blog:** 
- -> [Arjun's Cyber Insights](https://arjun-trivedi.blogspot.com/) (Threat hunting tips & security research)
- -> [Arjun's Sentinel Community blogs](https://techcommunity.microsoft.com/users/arjun_trivedi/1208210)
+- **Blog:** <br>
+    [Arjun's Cyber Insights](https://arjun-trivedi.blogspot.com/) (Threat hunting tips & security research) <br>
+    [Arjun's Sentinel Community blogs](https://techcommunity.microsoft.com/users/arjun_trivedi/1208210)
 - **PyPi:** [Pypi](https://pypi.org/user/Arjun_Trivedi/)
 - **Email:** [arjuntrivedi42@yahoo.com](mailto:arjuntrivedi42@yahoo.com)
 
