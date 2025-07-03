@@ -1,4 +1,5 @@
-<img align='right' width=200 src="https://media.licdn.com/dms/image/v2/D5603AQFOa8tKtIDGaw/profile-displayphoto-scale_200_200/B56Ze2Swu8HUAc-/0/1751110062470?e=1756944000&v=beta&t=2s-t1rlCMYYb7eljJPO645_i1AhJhzQANP6nBW0jCPo">
+<img align='center' width=200 src="https://media.licdn.com/dms/image/v2/D5603AQFOa8tKtIDGaw/profile-displayphoto-scale_200_200/B56Ze2Swu8HUAc-/0/1751110062470?e=1756944000&v=beta&t=2s-t1rlCMYYb7eljJPO645_i1AhJhzQANP6nBW0jCPo"/>
+<br>
 
 <!-- GREET -->
 
@@ -74,27 +75,30 @@ My latest projects, certified by the MCP Hub, are designed to supercharge securi
 | MCP | ![100%](https://progress-bar.dev/100/) |
 | AI Security | ![100%](https://progress-bar.dev/100/) |
 
+
 <code><img alt="Python" title="Python" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img alt="Jupyter Notebook" title="Jupyter Notebook" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img alt="Azure" title="Azure" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img alt="AWS" title="AWS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img alt="Google Cloud" title="Google Cloud" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png"></code>
-<code><img alt="IDA Pro" title="IDA Pro" height="40" src="https://www.hex-rays.com/images/logo.png"></code>
-<code><img alt="Ghidra" title="Ghidra" height="40" src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra_Logo.png"></code>
+
 
 <!-- GITHUB STATS -->
 
 
 ## GitHub Stats 📊
 
+<!-- ANIMATION -->
+
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4R9UN&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4R9UN&layout=compact&langs_count=16&theme=cyberpunk&include_all_commits=true" alt="Top Languages"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=4R9UN&theme=cyberpunk&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=cyberpunk&no-frame=true&margin-w=5&column=4" alt="GitHub Trophies"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4R9UN&show_icons=true&theme=radical" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=cyberpunk&no-frame=true&margin-w=5&column=8" alt="GitHub Trophies"/>
 </div>
 
-<!-- ANIMATION -->
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
 
 ## Cyber Threat Hunting in Action 🔐
 
@@ -117,10 +121,6 @@ My latest projects, certified by the MCP Hub, are designed to supercharge securi
 
 <a href="mailto:arjuntrivedi42@yahoo.com" target="_blank">
 <img width=45 height=45 src="https://user-images.githubusercontent.com/38081852/86829797-39ae9d80-c06b-11ea-9b5e-c9ade9446951.png">
-</a>
-
-<a href="https://arjuntrivedi.dev/blog" target="_blank">
-<img width=45 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/blog/blog.png">
 </a>
 
 ---
