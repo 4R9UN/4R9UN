@@ -1,14 +1,10 @@
-<img align='right' width=200 src="https://raw.githubusercontent.com/4R9UN/4R9UN/main/assets/cyber-shield.svg">
+<img align='right' width=200 src="https://media.licdn.com/dms/image/v2/D5603AQFOa8tKtIDGaw/profile-displayphoto-scale_200_200/B56Ze2Swu8HUAc-/0/1751110062470?e=1756944000&v=beta&t=2s-t1rlCMYYb7eljJPO645_i1AhJhzQANP6nBW0jCPo">
 
 <!-- GREET -->
 
 # 👋 Welcome to Arjun Trivedi's GitHub!
 
 <!-- TAGLINE -->
-
-## Securing the Future with AI-Powered Threat Intelligence 🛡️
-
-<!-- PRESENTATION -->
 
 ## Senior Security Researcher & Cyber Threat Hunter
 
@@ -26,14 +22,17 @@ I'm passionate about defending digital ecosystems through advanced threat huntin
 
 - **LinkedIn:** [imarjuntrivedi](https://www.linkedin.com/in/imarjuntrivedi/)
 - **GitHub:** [4R9UN](https://github.com/4R9UN)
-- **Blog:** [Arjun's Cyber Insights](https://arjuntrivedi.dev/blog) (Threat hunting tips & security research)
+- **Blog:** 
+ -> [Arjun's Cyber Insights](https://arjun-trivedi.blogspot.com/) (Threat hunting tips & security research)
+ -> [Arjun's Sentinel Community blogs](https://techcommunity.microsoft.com/users/arjun_trivedi/1208210)
+- **PyPi:** [Pypi](https://pypi.org/user/Arjun_Trivedi/)
 - **Email:** [arjuntrivedi42@yahoo.com](mailto:arjuntrivedi42@yahoo.com)
 
 <!-- WORKING AREA -->
 
 <div align="justify">
 
-- 🔍 **Currently working on**: Enhancing Microsoft Sentinel with multi-cloud detections (AWS, Google Cloud, IBM, Oracle) and automating threat hunting with Jupyter Notebooks and KQL.
+- 🔍 **Currently working on**: MCP Tools Development, Enhancing Microsoft Defeder with multi-cloud and 3p detections (AWS, Google Cloud, and Okta ) and automating threat hunting with Jupyter Notebooks and KQL.
 - 🌱 **Learning**: Next-gen AI security integrations (e.g., GPT-based Security Copilot) and advanced Kusto Query Language for real-time threat analysis.
 - 💡 **Interests**: Reverse engineering, threat intelligence, automation, mentoring, and open-source security innovation.
 
