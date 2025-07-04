@@ -9,7 +9,7 @@
 
 ## Senior Security Researcher & Cyber Threat Hunter
 
-I'm passionate about defending digital ecosystems through advanced threat hunting, AI-driven security, and cloud protection. My contributions to tools like [MSTICPy](https://github.com/microsoft/msticpy) and Microsoft Sentinel empower security teams with cutting-edge threat detection and response capabilities.
+I'm passionate about defending digital ecosystems through advanced threat hunting, AI-driven security, and cloud protection. I am good with automation and ai-tools developments empower security teams with cutting-edge threat detection and response capabilities.
 
 <!-- BADGES -->
 
@@ -35,55 +35,24 @@ I'm passionate about defending digital ecosystems through advanced threat huntin
 
 - 🔍 **Currently working on**: MCP Tools Development, Enhancing Microsoft Defeder with multi-cloud and 3p detections (AWS, Google Cloud, and Okta ) and automating threat hunting with Jupyter Notebooks and KQL.
 - 🌱 **Learning**: Next-gen AI security integrations (e.g., GPT-based Security Copilot) and advanced Kusto Query Language for real-time threat analysis.
-- 💡 **Interests**: Reverse engineering, threat intelligence, automation, mentoring, and open-source security innovation.
+- 💡 **Interests**: Detecton development, Reverse engineering, threat intelligence, automation, mentoring, and open-source security innovation.
 
 </div>
 
 <br>
-
-<!-- RECENT CONTRIBUTIONS -->
-
-## Recent Contributions 🚀
-
-### MCP Tools for Security Researchers
-My latest projects, certified by the MCP Hub, are designed to supercharge security workflows with AI and automation:
-
-- **[MCP KQL Server](https://github.com/4R9UN/mcp-kql-server)**: Executes Kusto queries within AI prompts for seamless data analysis.  
-  ![PyPI](https://img.shields.io/pypi/v/mcp-kql-server?color=green)
-- **[FastMCP Threat Intelligence](https://github.com/4R9UN/fastmcp-threatintel)**: Validates IOCs and APT actors with graphical reporting for precise threat detection.  
-  ![PyPI](https://img.shields.io/pypi/v/fastmcp-threatintel?color=green)
-
-> Install via PyPI: `pip install mcp-kql-server fastmcp-threatintel`  
-> Try them out and share your feedback! 🙌
-
-### Microsoft Sentinel Solutions
-- **Multi-Cloud Attack Coverage**: Developed advanced detections for Azure Sentinel targeting resource abuse across AWS, Google Cloud, IBM, and Oracle, with correlation-based methods and robust threat hunting processes.
-- **Security Copilot & Defender**: Enhanced AI-powered security products like Security Copilot, optimizing efficiency and user experience for threat response.
-
-<!-- HARD SKILLS -->
-
-## Hard Skills 💻
-
-| Skill | Proficiency |
-|-------|-------------|
-| Python | ![100%](https://progress-bar.dev/100/) |
-| Threat Hunting | ![100%](https://progress-bar.dev/100/) |
-| Malware Analysis | ![100%](https://progress-bar.dev/100/) |
-| Cloud Security (Azure, AWS, GCP) | ![100%](https://progress-bar.dev/100/) |
-| Kusto Query Language | ![100%](https://progress-bar.dev/100/) |
-| SIEM/SOAR | ![100%](https://progress-bar.dev/100/) |
-| MCP | ![100%](https://progress-bar.dev/100/) |
-| AI Security | ![100%](https://progress-bar.dev/100/) |
-
 
 <code><img alt="Python" title="Python" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img alt="Jupyter Notebook" title="Jupyter Notebook" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img alt="Azure" title="Azure" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img alt="AWS" title="AWS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-
-<!-- GITHUB STATS -->
-
+## Top Repositories
+<a href="https://github.com/4R9UN/mcp-kql-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4R9UN&repo=mcp-kql-server&theme=buefy" />
+</a>
+<a href="https://github.com/4R9UN/fastmcp-threatintel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4R9UN&repo=fastmcp-threatintel&theme=buefy" />
+</a>
 
 ## GitHub Stats 📊
 
@@ -95,21 +64,11 @@ My latest projects, certified by the MCP Hub, are designed to supercharge securi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4R9UN&show_icons=true&theme=radical" alt="GitHub Activity Graph"/>
   <img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=cyberpunk&no-frame=true&margin-w=5&column=8" alt="GitHub Trophies"/>
 </div>
-
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
+<br>
 
-## Cyber Threat Hunting in Action 🔐
-
-```ascii
-       _____
-      /     \   Scanning for Threats...
-     /_______\
-     |  ***  |  Analyzing IOCs...
-     |  ***  |  Neutralizing APTs...
-     |_______|
-```
 
 <!-- CONTACT -->
 
