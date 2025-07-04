@@ -6,9 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=ARJUN+TRIVEDI;SENIOR+SECURITY+RESEARCHER;CYBER+THREAT+HUNTER;AI+SECURITY+ARCHITECT" alt="Typing SVG" />
 
-
-<div align="center">
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🔥 𝓒𝓤𝓡𝓡𝓔𝓝𝓣 𝓜𝓘𝓢𝓢𝓘𝓞𝓝 🔥
@@ -103,14 +100,15 @@ mindmap
 <div align="center">
 
 ### **Core Technologies**
+
 <p>
 <code><img alt="Python" title="Python - Primary Language" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img alt="Jupyter" title="Jupyter - Data Analysis & Threat Hunting" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img alt="Azure" title="Azure - Cloud Security Platform" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img alt="AWS" title="AWS - Multi-Cloud Security" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 </p>
-
 ### **Security Specializations**
+
 ![KQL](https://img.shields.io/badge/KQL-Query%20Language-blue?style=for-the-badge&logo=microsoft)
 ![SIEM](https://img.shields.io/badge/SIEM-Security%20Information%20%26%20Event%20Management-red?style=for-the-badge)
 ![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-Advanced%20Persistent%20Threats-orange?style=for-the-badge)
@@ -145,6 +143,7 @@ mindmap
 <div align="center">
 
 ### **📈 Performance Metrics**
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4R9UN&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true&border_color=00ff41&icon_color=00ff41&title_color=00ff41" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4R9UN&layout=compact&langs_count=8&theme=cyberpunk&border_color=00ff41&title_color=00ff41" alt="Top Languages"/>
 
@@ -171,8 +170,7 @@ mindmap
 
 ### 🏆 **Achievement Trophy Hall** 🏆
 
-  <img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=cyberpunk&no-frame=true&margin-w=5&column=8" alt="GitHub Trophies"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=cyberpunk&no-frame=true&margin-w=5&column=8" alt="GitHub Trophies"/>
 
 ### 🐍 **Contribution Snake Animation** 🐍
 
