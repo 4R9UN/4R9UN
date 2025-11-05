@@ -1,0 +1,14 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mission { fill: #00F7FF; font: 600 22px 'Fira Code', 'Courier New', monospace; }
+    </style>
+  </defs>
+  
+  <rect width="800" height="120" fill="transparent"/>
+  
+  <text class="mission" text-anchor="middle" x="400" y="30">🔍 Hunting Advanced Persistent Threats</text>
+  <text class="mission" text-anchor="middle" x="400" y="60">🤖 Developing AI-Powered Security Tools</text>
+  <text class="mission" text-anchor="middle" x="400" y="90">☁️ Securing Multi-Cloud Environments</text>
+  <text class="mission" text-anchor="middle" x="400" y="120">🔧 Automating Threat Detection &amp; Response</text>
+</svg>

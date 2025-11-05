@@ -1,0 +1,58 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .grid-cell { fill: #161b22; }
+      .contribution-low { fill: #0e4429; }
+      .contribution-med { fill: #006d32; }
+      .contribution-high { fill: #26a641; }
+      .contribution-max { fill: #39d353; }
+      .label { fill: #FFFFFF; font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; }
+    </style>
+  </defs>
+  
+  <rect width="800" height="200" fill="#0D1117"/>
+  
+  <text class="label" x="400" y="20" text-anchor="middle">🐍 GitHub Contribution Activity 🐍</text>
+  
+  <!-- Simulated contribution grid -->
+  <g transform="translate(50, 40)">
+    <!-- Create a visual representation of a contribution snake -->
+    <path d="M 0 80 L 20 80 L 20 60 L 40 60 L 40 40 L 60 40 L 60 20 L 80 20 L 100 20 L 100 40 L 120 40 L 120 60 L 140 60 L 140 80 L 160 80 L 160 100 L 180 100 L 180 120 L 200 120 L 220 120 L 220 100 L 240 100 L 240 80 L 260 80 L 260 60 L 280 60 L 280 40 L 300 40 L 300 20 L 320 20 L 340 20 L 340 40 L 360 40 L 360 60 L 380 60 L 380 80 L 400 80 L 400 100 L 420 100 L 420 120 L 440 120 L 460 120 L 460 100 L 480 100 L 480 80 L 500 80 L 500 60 L 520 60 L 520 40 L 540 40 L 560 40 L 560 60 L 580 60 L 580 80 L 600 80 L 600 100 L 620 100 L 620 120 L 640 120 L 660 120 L 680 120 L 700 120" 
+          fill="none" 
+          stroke="#39d353" 
+          stroke-width="8" 
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+    
+    <!-- Add some contribution squares along the path -->
+    <rect class="contribution-max" x="0" y="75" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="20" y="55" width="10" height="10" rx="2"/>
+    <rect class="contribution-med" x="40" y="35" width="10" height="10" rx="2"/>
+    <rect class="contribution-max" x="60" y="15" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="100" y="35" width="10" height="10" rx="2"/>
+    <rect class="contribution-max" x="120" y="55" width="10" height="10" rx="2"/>
+    <rect class="contribution-med" x="140" y="75" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="160" y="95" width="10" height="10" rx="2"/>
+    <rect class="contribution-max" x="180" y="115" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="220" y="95" width="10" height="10" rx="2"/>
+    <rect class="contribution-max" x="240" y="75" width="10" height="10" rx="2"/>
+    <rect class="contribution-med" x="260" y="55" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="280" y="35" width="10" height="10" rx="2"/>
+    <rect class="contribution-max" x="300" y="15" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="340" y="35" width="10" height="10" rx="2"/>
+    <rect class="contribution-max" x="360" y="55" width="10" height="10" rx="2"/>
+    <rect class="contribution-med" x="380" y="75" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="400" y="95" width="10" height="10" rx="2"/>
+    <rect class="contribution-max" x="420" y="115" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="460" y="95" width="10" height="10" rx="2"/>
+    <rect class="contribution-max" x="480" y="75" width="10" height="10" rx="2"/>
+    <rect class="contribution-med" x="500" y="55" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="520" y="35" width="10" height="10" rx="2"/>
+    <rect class="contribution-max" x="560" y="55" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="580" y="75" width="10" height="10" rx="2"/>
+    <rect class="contribution-max" x="600" y="95" width="10" height="10" rx="2"/>
+    <rect class="contribution-high" x="620" y="115" width="10" height="10" rx="2"/>
+  </g>
+  
+  <text class="label" x="400" y="180" text-anchor="middle">Consistent contributions throughout the year</text>
+</svg>
