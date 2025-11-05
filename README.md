@@ -4,15 +4,15 @@
 
 # 🛡️ Welcome to Arjun Trivedi's Digital Arsenal 🛡️
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=ARJUN+TRIVEDI;SENIOR+SECURITY+RESEARCHER;CYBER+THREAT+HUNTER;AI+SECURITY+ARCHITECT" alt="Typing SVG" />
+<img src="assets/stats/header-title.svg" alt="Arjun Trivedi - Senior Security Researcher, Cyber Threat Hunter, AI Security Architect" />
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 ## 🔥 𝓒𝓤𝓡𝓡𝓔𝓝𝓣 𝓜𝓘𝓢𝓢𝓘𝓞𝓝 🔥
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=🔍+Hunting+Advanced+Persistent+Threats;🤖+Developing+AI-Powered+Security+Tools;☁️+Securing+Multi-Cloud+Environments;🔧+Automating+Threat+Detection+%26+Response)](https://git.io/typing-svg)
+<img src="assets/stats/current-mission.svg" alt="Current Mission - Hunting Advanced Persistent Threats, Developing AI-Powered Security Tools, Securing Multi-Cloud Environments, Automating Threat Detection and Response" />
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 </div>
 
@@ -102,10 +102,10 @@ mindmap
 ### **Core Technologies**
 
 <p>
-<code><img alt="Python" title="Python - Primary Language" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img alt="Jupyter" title="Jupyter - Data Analysis & Threat Hunting" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img alt="Azure" title="Azure - Cloud Security Platform" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img alt="AWS" title="AWS - Multi-Cloud Security" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img alt="Python" title="Python - Primary Language" height="50" src="assets/stats/icon-python.svg"></code>
+<code><img alt="Jupyter" title="Jupyter - Data Analysis & Threat Hunting" height="50" src="assets/stats/icon-jupyter.svg"></code>
+<code><img alt="Azure" title="Azure - Cloud Security Platform" height="50" src="assets/stats/icon-azure.svg"></code>
+<code><img alt="AWS" title="AWS - Multi-Cloud Security" height="50" src="assets/stats/icon-aws.svg"></code>
 </p>
 ### **Security Specializations**
 
@@ -121,12 +121,14 @@ mindmap
 <div align="center">
 
 <a href="https://github.com/4R9UN/mcp-kql-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4R9UN&repo=mcp-kql-server&theme=cyberpunk&border_color=00ff41" />
+  <img align="center" src="assets/stats/project-mcp-kql.svg" alt="MCP KQL Server - Advanced KQL query execution and threat hunting automation" />
 </a>
 
 <a href="https://github.com/4R9UN/fastmcp-threatintel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4R9UN&repo=fastmcp-threatintel&theme=cyberpunk&border_color=00ff41" />
+  <img align="center" src="assets/stats/project-fastmcp-threatintel.svg" alt="FastMCP ThreatIntel - Real-time threat intelligence processing and analysis" />
 </a>
+
+<p><i>👆 Select project cards above to visit the live repositories</i></p>
 
 </div>
 
@@ -144,39 +146,49 @@ mindmap
 
 ### **📈 Performance Metrics**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4R9UN&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true&border_color=00ff41&icon_color=00ff41&title_color=00ff41" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4R9UN&layout=compact&langs_count=8&theme=cyberpunk&border_color=00ff41&title_color=00ff41" alt="Top Languages"/>
+<img height="180em" src="assets/stats/github-stats.svg" alt="GitHub Stats showing total stars, commits, PRs, issues, and repository contributions"/>
+<img height="180em" src="assets/stats/top-languages.svg" alt="Top programming languages - Python, JavaScript, C#, Jupyter Notebook, Shell, and others"/>
+
+<p><i>📊 <a href="https://github.com/4R9UN?tab=repositories">View real-time statistics on GitHub profile</a></i></p>
 
 ## 📊 **GitHub Analytics & Achievements**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
-### ⚡ **Live Performance Dashboard** ⚡
+### ⚡ **Performance Dashboard** ⚡
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=4R9UN&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true&border_color=FF0080&icon_color=FF0080&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats"/>
+<img height="200" src="assets/stats/github-stats.svg" alt="GitHub Stats showing 150+ stars, 800+ commits in 2024, 50+ PRs, 30+ issues, and 20+ repo contributions"/>
 </td>
 <td align="center" width="50%">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4R9UN&layout=compact&langs_count=8&theme=noctis_minimus&border_color=FF0080&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
+<img height="200" src="assets/stats/top-languages.svg" alt="Top Languages - Python 68.5%, JavaScript 12.3%, C# 8.7%, Jupyter Notebook 6.2%, Shell 2.8%, Other 1.5%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=4R9UN&theme=noctis-minimus&border=FF0080&stroke=00FF41&ring=FF0080&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0080&sideLabels=00FF41&dates=FFFFFF&background=0D1117" alt="GitHub Streak Stats"/>
+<p><i>📈 <a href="https://github.com/4R9UN?tab=repositories">View real-time statistics on GitHub profile</a></i></p>
+
+<img src="assets/stats/github-streak.svg" alt="GitHub Streak Stats - 125 total contributions, 42 day current streak, 87 day longest streak"/>
+
+<p><i>🔥 <a href="https://github.com/4R9UN?tab=overview">View live contribution activity</a></i></p>
 
 ### 🏆 **Achievement Trophy Hall** 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=cyberpunk&no-frame=true&margin-w=5&column=8" alt="GitHub Trophies"/>
+<img src="assets/stats/github-trophy.svg" alt="GitHub Achievement Trophies - Stars 150+, Commits 800+, Followers 100+, Repositories 25+, Pull Requests 50+, Issues 30+, Contributed 20+, Active Years 4+"/>
 
-### 🐍 **Contribution Snake Animation** 🐍
+<p><i>🏅 <a href="https://github.com/4R9UN">View live achievements</a></i></p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+### 🐍 **Contribution Activity** 🐍
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<img src="assets/stats/contribution-snake.svg" alt="GitHub Contribution Snake Animation showing consistent contribution activity throughout the year"/>
+
+<p><i>📅 <a href="https://github.com/4R9UN?tab=overview">View live contribution graph</a></i></p>
+
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 </div>
 
@@ -213,7 +225,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 ### 🚨 **Digital Domain Headquarters** 🚨
 
@@ -232,7 +244,7 @@ mindmap
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 ### 🛡️ **Digital Territory DISCLAIMER** 🛡️
 
@@ -296,8 +308,8 @@ mindmap
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
-![Matrix Footer](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 </div>

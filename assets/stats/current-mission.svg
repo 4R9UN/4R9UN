@@ -1,0 +1,15 @@
+<svg width="800" height="140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mission { fill: #00F7FF; font: 600 20px 'Courier New', monospace; }
+      .icon { font-size: 24px; }
+    </style>
+  </defs>
+  
+  <rect width="800" height="140" fill="#0D1117"/>
+  
+  <text class="mission" text-anchor="middle" x="400" y="30"><tspan class="icon">🔍</tspan> Hunting Advanced Persistent Threats</text>
+  <text class="mission" text-anchor="middle" x="400" y="60"><tspan class="icon">🤖</tspan> Developing AI-Powered Security Tools</text>
+  <text class="mission" text-anchor="middle" x="400" y="90"><tspan class="icon">☁️</tspan> Securing Multi-Cloud Environments</text>
+  <text class="mission" text-anchor="middle" x="400" y="120"><tspan class="icon">🔧</tspan> Automating Threat Detection & Response</text>
+</svg>
