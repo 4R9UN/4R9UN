@@ -128,7 +128,7 @@ mindmap
   <img align="center" src="assets/stats/project-fastmcp-threatintel.svg" alt="FastMCP ThreatIntel - Real-time threat intelligence processing and analysis" />
 </a>
 
-<p><i>👆 Click on project cards above to visit the live repositories</i></p>
+<p><i>👆 Select project cards above to visit the live repositories</i></p>
 
 </div>
 
@@ -149,7 +149,7 @@ mindmap
 <img height="180em" src="assets/stats/github-stats.svg" alt="GitHub Stats showing total stars, commits, PRs, issues, and repository contributions"/>
 <img height="180em" src="assets/stats/top-languages.svg" alt="Top programming languages - Python, JavaScript, C#, Jupyter Notebook, Shell, and others"/>
 
-<p><i>📊 <a href="https://github.com/4R9UN?tab=repositories">View live GitHub profile</a> for real-time statistics</i></p>
+<p><i>📊 <a href="https://github.com/4R9UN?tab=repositories">View real-time statistics on GitHub profile</a></i></p>
 
 ## 📊 **GitHub Analytics & Achievements**
 
@@ -170,7 +170,7 @@ mindmap
 </tr>
 </table>
 
-<p><i>📈 <a href="https://github.com/4R9UN?tab=repositories">View live GitHub profile</a> for current statistics</i></p>
+<p><i>📈 <a href="https://github.com/4R9UN?tab=repositories">View real-time statistics on GitHub profile</a></i></p>
 
 <img src="assets/stats/github-streak.svg" alt="GitHub Streak Stats - 125 total contributions, 42 day current streak, 87 day longest streak"/>
 
