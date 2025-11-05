@@ -102,10 +102,10 @@ mindmap
 ### **Core Technologies**
 
 <p>
-<code><img alt="Python" title="Python - Primary Language" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img alt="Jupyter" title="Jupyter - Data Analysis & Threat Hunting" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img alt="Azure" title="Azure - Cloud Security Platform" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img alt="AWS" title="AWS - Multi-Cloud Security" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img alt="Python" title="Python - Primary Language" height="50" src="assets/stats/icon-python.svg"></code>
+<code><img alt="Jupyter" title="Jupyter - Data Analysis & Threat Hunting" height="50" src="assets/stats/icon-jupyter.svg"></code>
+<code><img alt="Azure" title="Azure - Cloud Security Platform" height="50" src="assets/stats/icon-azure.svg"></code>
+<code><img alt="AWS" title="AWS - Multi-Cloud Security" height="50" src="assets/stats/icon-aws.svg"></code>
 </p>
 ### **Security Specializations**
 
