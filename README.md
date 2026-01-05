@@ -102,11 +102,12 @@ mindmap
 ### **Core Technologies**
 
 <p>
-<code><img alt="Python" title="Python - Primary Language" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img alt="Jupyter" title="Jupyter - Data Analysis & Threat Hunting" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img alt="Azure" title="Azure - Cloud Security Platform" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img alt="AWS" title="AWS - Multi-Cloud Security" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+  <code><img alt="Python" title="Python - Primary Language" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img alt="Jupyter" title="Jupyter - Data Analysis & Threat Hunting" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+  <code><img alt="Azure" title="Azure - Cloud Security Platform" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+  <code><img alt="AWS" title="AWS - Multi-Cloud Security" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 </p>
+
 ### **Security Specializations**
 
 ![KQL](https://img.shields.io/badge/KQL-Query%20Language-blue?style=for-the-badge&logo=microsoft)
@@ -116,19 +117,19 @@ mindmap
 
 </div>
 
+---
+
 ## 🌟 Featured Projects
 
 <div align="center">
+  
+![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=4R9UN\&repo=fastmcp-threatintel\&show_owner=true)
 
-<a href="https://github.com/4R9UN/mcp-kql-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4R9UN&repo=mcp-kql-server&theme=cyberpunk&border_color=00ff41" />
-</a>
-
-<a href="https://github.com/4R9UN/fastmcp-threatintel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4R9UN&repo=fastmcp-threatintel&theme=cyberpunk&border_color=00ff41" />
-</a>
+![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=4R9UN\&repo=mcp-kql-server\&show_owner=true)
 
 </div>
+
+
 
 ### 🎯 Project Highlights
 
@@ -143,9 +144,9 @@ mindmap
 <div align="center">
 
 ### **📈 Performance Metrics**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4R9UN&theme=2077" alt="Stats summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4R9UN&theme=2077&utcOffset=5.5" alt="Productive time"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4R9UN&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true&border_color=00ff41&icon_color=00ff41&title_color=00ff41" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4R9UN&layout=compact&langs_count=8&theme=cyberpunk&border_color=00ff41&title_color=00ff41" alt="Top Languages"/>
 
 ## 📊 **GitHub Analytics & Achievements**
 
@@ -155,22 +156,20 @@ mindmap
 
 ### ⚡ **Live Performance Dashboard** ⚡
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=4R9UN&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true&border_color=FF0080&icon_color=FF0080&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats"/>
-</td>
-<td align="center" width="50%">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4R9UN&layout=compact&langs_count=8&theme=noctis_minimus&border_color=FF0080&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
-</td>
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4R9UN&theme=2077" alt="Profile details"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=4R9UN&theme=noctis-minimus&border=FF0080&stroke=00FF41&ring=FF0080&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0080&sideLabels=00FF41&dates=FFFFFF&background=0D1117" alt="GitHub Streak Stats"/>
+</div>
+
 
 ### 🏆 **Achievement Trophy Hall** 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=cyberpunk&no-frame=true&margin-w=5&column=8" alt="GitHub Trophies"/>
+<!-- This one is already a good choice; keeping it. -->
+<img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=matrix&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+<div align="center">
+
 
 ### 🐍 **Contribution Snake Animation** 🐍
 
