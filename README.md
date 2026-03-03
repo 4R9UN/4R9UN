@@ -42,6 +42,8 @@ and producing accurate, evidence-backed investigation summaries.
 
 🔗 **[https://asrs-demo-v1.vercel.app/](https://asrs-demo-v1.vercel.app/)**
 
+> 💡 **ASRS is my current innovation and motivation project** — a **Unified SIEM investigation platform** where AI agents autonomously investigate security incidents and alerts across multiple SIEMs (Sentinel, Splunk, Elastic), correlating evidence across sources to produce accurate, evidence-backed investigation summaries. [**Try the live demo →**](https://asrs-demo-v1.vercel.app/)
+
 </td>
 </tr>
 </table>
@@ -56,10 +58,7 @@ and producing accurate, evidence-backed investigation summaries.
 
 I'm passionate about **defending digital ecosystems** through advanced threat hunting, AI-driven security, and cloud protection. I specialize in automation and AI-tools development that empower security teams with cutting-edge threat detection and response capabilities.
 
-> 💡 **ASRS is my current innovation and motivation project** — a **Unified SIEM investigation platform** where AI agents autonomously investigate security incidents and alerts across multiple SIEMs (Sentinel, Splunk, Elastic), correlating evidence across sources to produce accurate, evidence-backed investigation summaries. [**Try the live demo →**](https://asrs-demo-v1.vercel.app/)
-
 > *"In cybersecurity, you're only as strong as your weakest detection rule"* 🎯
-> 
 > *"The future of security is not just reactive - it's predictive, proactive, and AI-powered"* 🤖
 
 </div>
