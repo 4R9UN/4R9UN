@@ -18,12 +18,45 @@
 
 </div>
 
+---
+
+<div align="center">
+
+## 🚀 Live Demo — Try ASRS Now!
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🤖 ASRS — Autonomous Security Response System
+
+**A Unified SIEM Investigation Platform powered by AI Agents**
+
+AI agents autonomously investigate security incidents and alerts across multiple SIEMs —  
+**Microsoft Sentinel · Splunk · Elastic Security** — correlating evidence across sources  
+and producing accurate, evidence-backed investigation summaries.
+
+<br/>
+
+[![Open Demo](https://img.shields.io/badge/🔴_LIVE-Open%20ASRS%20Demo-00FF41?style=for-the-badge&labelColor=000000)](https://asrs-demo-v1.vercel.app/)
+
+🔗 **[https://asrs-demo-v1.vercel.app/](https://asrs-demo-v1.vercel.app/)**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 🚀 About Me
 
 <div align="justify">
 
 I'm passionate about **defending digital ecosystems** through advanced threat hunting, AI-driven security, and cloud protection. I specialize in automation and AI-tools development that empower security teams with cutting-edge threat detection and response capabilities.
+
+> 💡 **ASRS is my current innovation and motivation project** — a **Unified SIEM investigation platform** where AI agents autonomously investigate security incidents and alerts across multiple SIEMs (Sentinel, Splunk, Elastic), correlating evidence across sources to produce accurate, evidence-backed investigation summaries. [**Try the live demo →**](https://asrs-demo-v1.vercel.app/)
 
 > *"In cybersecurity, you're only as strong as your weakest detection rule"* 🎯
 > 
@@ -89,6 +122,7 @@ mindmap
 
 ### 🎯 What I'm Working On
 
+- 🤖 **ASRS — Unified SIEM Platform**: AI agents that autonomously investigate incidents & alerts across Sentinel, Splunk & Elastic — [**Try the live demo**](https://asrs-demo-v1.vercel.app/)
 - 🔍 **MCP Tools Development**: Building next-gen security automation tools
 - 🛡️ **Microsoft Defender Enhancement**: Multi-cloud and 3rd-party integrations (AWS, GCP, Okta)
 - 📊 **Threat Hunting Automation**: Jupyter Notebooks and advanced KQL queries
@@ -102,11 +136,12 @@ mindmap
 ### **Core Technologies**
 
 <p>
-<code><img alt="Python" title="Python - Primary Language" height="50" src="assets/stats/icon-python.svg"></code>
-<code><img alt="Jupyter" title="Jupyter - Data Analysis & Threat Hunting" height="50" src="assets/stats/icon-jupyter.svg"></code>
-<code><img alt="Azure" title="Azure - Cloud Security Platform" height="50" src="assets/stats/icon-azure.svg"></code>
-<code><img alt="AWS" title="AWS - Multi-Cloud Security" height="50" src="assets/stats/icon-aws.svg"></code>
+  <code><img alt="Python" title="Python - Primary Language" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img alt="Jupyter" title="Jupyter - Data Analysis & Threat Hunting" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+  <code><img alt="Azure" title="Azure - Cloud Security Platform" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+  <code><img alt="AWS" title="AWS - Multi-Cloud Security" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 </p>
+
 ### **Security Specializations**
 
 ![KQL](https://img.shields.io/badge/KQL-Query%20Language-blue?style=for-the-badge&logo=microsoft)
@@ -116,21 +151,21 @@ mindmap
 
 </div>
 
+---
+
 ## 🌟 Featured Projects
 
 <div align="center">
+  
+![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=4R9UN\&repo=fastmcp-threatintel\&show_owner=true)
 
-<a href="https://github.com/4R9UN/mcp-kql-server">
-  <img align="center" src="assets/stats/project-mcp-kql.svg" alt="MCP KQL Server - Advanced KQL query execution and threat hunting automation" />
-</a>
-
-<a href="https://github.com/4R9UN/fastmcp-threatintel">
-  <img align="center" src="assets/stats/project-fastmcp-threatintel.svg" alt="FastMCP ThreatIntel - Real-time threat intelligence processing and analysis" />
-</a>
+![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=4R9UN\&repo=mcp-kql-server\&show_owner=true)
 
 <p><i>👆 Select project cards above to visit the live repositories</i></p>
 
 </div>
+
+
 
 ### 🎯 Project Highlights
 
@@ -145,11 +180,9 @@ mindmap
 <div align="center">
 
 ### **📈 Performance Metrics**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4R9UN&theme=2077" alt="Stats summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4R9UN&theme=2077&utcOffset=5.5" alt="Productive time"/>
 
-<img height="180em" src="assets/stats/github-stats.svg" alt="GitHub Stats showing total stars, commits, PRs, issues, and repository contributions"/>
-<img height="180em" src="assets/stats/top-languages.svg" alt="Top programming languages - Python, JavaScript, C#, Jupyter Notebook, Shell, and others"/>
-
-<p><i>📊 <a href="https://github.com/4R9UN?tab=repositories">View real-time statistics on GitHub profile</a></i></p>
 
 ## 📊 **GitHub Analytics & Achievements**
 
@@ -159,30 +192,20 @@ mindmap
 
 ### ⚡ **Performance Dashboard** ⚡
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img height="200" src="assets/stats/github-stats.svg" alt="GitHub Stats showing 150+ stars, 800+ commits in 2024, 50+ PRs, 30+ issues, and 20+ repo contributions"/>
-</td>
-<td align="center" width="50%">
-<img height="200" src="assets/stats/top-languages.svg" alt="Top Languages - Python 68.5%, JavaScript 12.3%, C# 8.7%, Jupyter Notebook 6.2%, Shell 2.8%, Other 1.5%"/>
-</td>
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4R9UN&theme=2077" alt="Profile details"/>
 
-<p><i>📈 <a href="https://github.com/4R9UN?tab=repositories">View real-time statistics on GitHub profile</a></i></p>
+</div>
 
-<img src="assets/stats/github-streak.svg" alt="GitHub Streak Stats - 125 total contributions, 42 day current streak, 87 day longest streak"/>
-
-<p><i>🔥 <a href="https://github.com/4R9UN?tab=overview">View live contribution activity</a></i></p>
 
 ### 🏆 **Achievement Trophy Hall** 🏆
 
-<img src="assets/stats/github-trophy.svg" alt="GitHub Achievement Trophies - Stars 150+, Commits 800+, Followers 100+, Repositories 25+, Pull Requests 50+, Issues 30+, Contributed 20+, Active Years 4+"/>
+<!-- This one is already a good choice; keeping it. -->
+<img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=matrix&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
-<p><i>🏅 <a href="https://github.com/4R9UN">View live achievements</a></i></p>
+</div>
 
-### 🐍 **Contribution Activity** 🐍
+<div align="center">
+
 
 <img src="assets/stats/contribution-snake.svg" alt="GitHub Contribution Snake Animation showing consistent contribution activity throughout the year"/>
 
