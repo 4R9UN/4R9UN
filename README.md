@@ -4,15 +4,15 @@
 
 # 🛡️ Welcome to Arjun Trivedi's Digital Arsenal 🛡️
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=ARJUN+TRIVEDI;SENIOR+SECURITY+RESEARCHER;CYBER+THREAT+HUNTER;AI+SECURITY+ARCHITECT" alt="Typing SVG" />
+<img src="assets/stats/header-title.svg" alt="Arjun Trivedi - Senior Security Researcher, Cyber Threat Hunter, AI Security Architect" />
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 ## 🔥 𝓒𝓤𝓡𝓡𝓔𝓝𝓣 𝓜𝓘𝓢𝓢𝓘𝓞𝓝 🔥
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=🔍+Hunting+Advanced+Persistent+Threats;🤖+Developing+AI-Powered+Security+Tools;☁️+Securing+Multi-Cloud+Environments;🔧+Automating+Threat+Detection+%26+Response)](https://git.io/typing-svg)
+<img src="assets/stats/current-mission.svg" alt="Current Mission - Hunting Advanced Persistent Threats, Developing AI-Powered Security Tools, Securing Multi-Cloud Environments, Automating Threat Detection and Response" />
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 </div>
 
@@ -161,6 +161,8 @@ mindmap
 
 ![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=4R9UN\&repo=mcp-kql-server\&show_owner=true)
 
+<p><i>👆 Select project cards above to visit the live repositories</i></p>
+
 </div>
 
 
@@ -186,9 +188,9 @@ mindmap
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
-### ⚡ **Live Performance Dashboard** ⚡
+### ⚡ **Performance Dashboard** ⚡
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4R9UN&theme=2077" alt="Profile details"/>
 
@@ -205,11 +207,11 @@ mindmap
 <div align="center">
 
 
-### 🐍 **Contribution Snake Animation** 🐍
+<img src="assets/stats/contribution-snake.svg" alt="GitHub Contribution Snake Animation showing consistent contribution activity throughout the year"/>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<p><i>📅 <a href="https://github.com/4R9UN?tab=overview">View live contribution graph</a></i></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 </div>
 
@@ -246,7 +248,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 ### 🚨 **Digital Domain Headquarters** 🚨
 
@@ -265,7 +267,7 @@ mindmap
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 ### 🛡️ **Digital Territory DISCLAIMER** 🛡️
 
@@ -329,8 +331,8 @@ mindmap
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
-![Matrix Footer](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
 
 </div>

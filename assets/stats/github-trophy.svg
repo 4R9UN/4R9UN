@@ -1,0 +1,74 @@
+<svg width="1000" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .trophy-text { fill: #00FF41; font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .trophy-label { fill: #FFFFFF; font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; }
+    </style>
+  </defs>
+  
+  <rect width="1000" height="120" fill="#0D1117"/>
+  
+  <!-- Trophy 1: Stars -->
+  <g transform="translate(20, 30)">
+    <rect width="110" height="80" fill="#1a1b27" stroke="#FF0080" stroke-width="1" rx="4"/>
+    <text class="trophy-text" text-anchor="middle" x="55" y="35">⭐</text>
+    <text class="trophy-label" text-anchor="middle" x="55" y="55">Stars</text>
+    <text class="trophy-text" text-anchor="middle" x="55" y="70">150+</text>
+  </g>
+  
+  <!-- Trophy 2: Commits -->
+  <g transform="translate(145, 30)">
+    <rect width="110" height="80" fill="#1a1b27" stroke="#FF0080" stroke-width="1" rx="4"/>
+    <text class="trophy-text" text-anchor="middle" x="55" y="35">📝</text>
+    <text class="trophy-label" text-anchor="middle" x="55" y="55">Commits</text>
+    <text class="trophy-text" text-anchor="middle" x="55" y="70">800+</text>
+  </g>
+  
+  <!-- Trophy 3: Followers -->
+  <g transform="translate(270, 30)">
+    <rect width="110" height="80" fill="#1a1b27" stroke="#FF0080" stroke-width="1" rx="4"/>
+    <text class="trophy-text" text-anchor="middle" x="55" y="35">👥</text>
+    <text class="trophy-label" text-anchor="middle" x="55" y="55">Followers</text>
+    <text class="trophy-text" text-anchor="middle" x="55" y="70">100+</text>
+  </g>
+  
+  <!-- Trophy 4: Repositories -->
+  <g transform="translate(395, 30)">
+    <rect width="110" height="80" fill="#1a1b27" stroke="#FF0080" stroke-width="1" rx="4"/>
+    <text class="trophy-text" text-anchor="middle" x="55" y="35">📦</text>
+    <text class="trophy-label" text-anchor="middle" x="55" y="55">Repositories</text>
+    <text class="trophy-text" text-anchor="middle" x="55" y="70">25+</text>
+  </g>
+  
+  <!-- Trophy 5: Pull Requests -->
+  <g transform="translate(520, 30)">
+    <rect width="110" height="80" fill="#1a1b27" stroke="#FF0080" stroke-width="1" rx="4"/>
+    <text class="trophy-text" text-anchor="middle" x="55" y="35">🔀</text>
+    <text class="trophy-label" text-anchor="middle" x="55" y="55">Pull Requests</text>
+    <text class="trophy-text" text-anchor="middle" x="55" y="70">50+</text>
+  </g>
+  
+  <!-- Trophy 6: Issues -->
+  <g transform="translate(645, 30)">
+    <rect width="110" height="80" fill="#1a1b27" stroke="#FF0080" stroke-width="1" rx="4"/>
+    <text class="trophy-text" text-anchor="middle" x="55" y="35">🎯</text>
+    <text class="trophy-label" text-anchor="middle" x="55" y="55">Issues</text>
+    <text class="trophy-text" text-anchor="middle" x="55" y="70">30+</text>
+  </g>
+  
+  <!-- Trophy 7: Contributed -->
+  <g transform="translate(770, 30)">
+    <rect width="110" height="80" fill="#1a1b27" stroke="#FF0080" stroke-width="1" rx="4"/>
+    <text class="trophy-text" text-anchor="middle" x="55" y="35">🤝</text>
+    <text class="trophy-label" text-anchor="middle" x="55" y="55">Contributed</text>
+    <text class="trophy-text" text-anchor="middle" x="55" y="70">20+</text>
+  </g>
+  
+  <!-- Trophy 8: Years -->
+  <g transform="translate(895, 30)">
+    <rect width="110" height="80" fill="#1a1b27" stroke="#FF0080" stroke-width="1" rx="4"/>
+    <text class="trophy-text" text-anchor="middle" x="55" y="35">🎂</text>
+    <text class="trophy-label" text-anchor="middle" x="55" y="55">Active Years</text>
+    <text class="trophy-text" text-anchor="middle" x="55" y="70">4+</text>
+  </g>
+</svg>

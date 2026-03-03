@@ -1,0 +1,51 @@
+<svg width="300" height="280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .header { fill: #00FF41; font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .lang-name { fill: #FFFFFF; font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .percent { fill: #FFFFFF; font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; }
+    </style>
+  </defs>
+  
+  <rect width="300" height="280" fill="#0D1117" stroke="#FF0080" stroke-width="1" rx="4.5"/>
+  
+  <g transform="translate(25, 35)">
+    <text class="header" x="0" y="0">Most Used Languages</text>
+    
+    <g transform="translate(0, 40)">
+      <circle cx="5" cy="0" r="5" fill="#3572A5"/>
+      <text class="lang-name" x="15" y="5">Python</text>
+      <text class="percent" x="200" y="5">68.5%</text>
+    </g>
+    
+    <g transform="translate(0, 70)">
+      <circle cx="5" cy="0" r="5" fill="#f1e05a"/>
+      <text class="lang-name" x="15" y="5">JavaScript</text>
+      <text class="percent" x="200" y="5">12.3%</text>
+    </g>
+    
+    <g transform="translate(0, 100)">
+      <circle cx="5" cy="0" r="5" fill="#178600"/>
+      <text class="lang-name" x="15" y="5">C#</text>
+      <text class="percent" x="200" y="5">8.7%</text>
+    </g>
+    
+    <g transform="translate(0, 130)">
+      <circle cx="5" cy="0" r="5" fill="#DA5B0B"/>
+      <text class="lang-name" x="15" y="5">Jupyter Notebook</text>
+      <text class="percent" x="200" y="5">6.2%</text>
+    </g>
+    
+    <g transform="translate(0, 160)">
+      <circle cx="5" cy="0" r="5" fill="#89e051"/>
+      <text class="lang-name" x="15" y="5">Shell</text>
+      <text class="percent" x="200" y="5">2.8%</text>
+    </g>
+    
+    <g transform="translate(0, 190)">
+      <circle cx="5" cy="0" r="5" fill="#e34c26"/>
+      <text class="lang-name" x="15" y="5">Other</text>
+      <text class="percent" x="200" y="5">1.5%</text>
+    </g>
+  </g>
+</svg>

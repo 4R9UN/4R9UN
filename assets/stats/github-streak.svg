@@ -1,0 +1,35 @@
+<svg width="540" height="195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .header { fill: #FF0080; font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .stat-label { fill: #00FF41; font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .stat-value { fill: #FFFFFF; font: 700 24px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .fire { fill: #00FF41; }
+    </style>
+  </defs>
+  
+  <rect width="540" height="195" fill="#0D1117" stroke="#FF0080" stroke-width="1" rx="4.5"/>
+  
+  <g transform="translate(270, 30)">
+    <text class="header" text-anchor="middle" x="0" y="0">🔥 GitHub Streak Stats 🔥</text>
+  </g>
+  
+  <g transform="translate(60, 80)">
+    <text class="stat-value" text-anchor="middle" x="0" y="0">125</text>
+    <text class="stat-label" text-anchor="middle" x="0" y="25">Total Contributions</text>
+  </g>
+  
+  <g transform="translate(270, 80)">
+    <text class="stat-value" text-anchor="middle" x="0" y="0">42</text>
+    <text class="stat-label" text-anchor="middle" x="0" y="25">Current Streak</text>
+  </g>
+  
+  <g transform="translate(480, 80)">
+    <text class="stat-value" text-anchor="middle" x="0" y="0">87</text>
+    <text class="stat-label" text-anchor="middle" x="0" y="25">Longest Streak</text>
+  </g>
+  
+  <g transform="translate(270, 150)">
+    <text class="stat-label" text-anchor="middle" x="0" y="0">📅 Active since 2020 | 🎯 Consistent contributor</text>
+  </g>
+</svg>

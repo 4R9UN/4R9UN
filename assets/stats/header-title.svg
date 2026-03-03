@@ -1,0 +1,14 @@
+<svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { fill: #00FF41; font: 900 35px 'Courier New', monospace; letter-spacing: 2px; }
+      .subtitle { fill: #00F7FF; font: 700 16px 'Courier New', monospace; letter-spacing: 1px; }
+    </style>
+  </defs>
+  
+  <rect width="800" height="80" fill="#0D1117"/>
+  
+  <text class="title" text-anchor="middle" x="400" y="38">ARJUN TRIVEDI</text>
+  <text class="subtitle" text-anchor="middle" x="400" y="62">SENIOR SECURITY RESEARCHER | CYBER THREAT HUNTER</text>
+  <text class="subtitle" text-anchor="middle" x="400" y="75">AI SECURITY ARCHITECT</text>
+</svg>
