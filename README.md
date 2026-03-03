@@ -18,12 +18,45 @@
 
 </div>
 
+---
+
+<div align="center">
+
+## 🚀 Live Demo — Try ASRS Now!
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🤖 ASRS — Autonomous Security Response System
+
+**A Unified SIEM Investigation Platform powered by AI Agents**
+
+AI agents autonomously investigate security incidents and alerts across multiple SIEMs —  
+**Microsoft Sentinel · Splunk · Elastic Security** — correlating evidence across sources  
+and producing accurate, evidence-backed investigation summaries.
+
+<br/>
+
+[![Open Demo](https://img.shields.io/badge/🔴_LIVE-Open%20ASRS%20Demo-00FF41?style=for-the-badge&labelColor=000000)](https://asrs-demo-v1.vercel.app/)
+
+🔗 **[https://asrs-demo-v1.vercel.app/](https://asrs-demo-v1.vercel.app/)**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 🚀 About Me
 
 <div align="justify">
 
 I'm passionate about **defending digital ecosystems** through advanced threat hunting, AI-driven security, and cloud protection. I specialize in automation and AI-tools development that empower security teams with cutting-edge threat detection and response capabilities.
+
+> 💡 **ASRS is my current innovation and motivation project** — a **Unified SIEM investigation platform** where AI agents autonomously investigate security incidents and alerts across multiple SIEMs (Sentinel, Splunk, Elastic), correlating evidence across sources to produce accurate, evidence-backed investigation summaries. [**Try the live demo →**](https://asrs-demo-v1.vercel.app/)
 
 > *"In cybersecurity, you're only as strong as your weakest detection rule"* 🎯
 > 
@@ -89,6 +122,7 @@ mindmap
 
 ### 🎯 What I'm Working On
 
+- 🤖 **ASRS — Unified SIEM Platform**: AI agents that autonomously investigate incidents & alerts across Sentinel, Splunk & Elastic — [**Try the live demo**](https://asrs-demo-v1.vercel.app/)
 - 🔍 **MCP Tools Development**: Building next-gen security automation tools
 - 🛡️ **Microsoft Defender Enhancement**: Multi-cloud and 3rd-party integrations (AWS, GCP, Okta)
 - 📊 **Threat Hunting Automation**: Jupyter Notebooks and advanced KQL queries
