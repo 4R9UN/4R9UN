@@ -1,0 +1,148 @@
+<svg width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { fill: #00FF41; font: 700 18px 'Courier New', monospace; }
+      .label { fill: #8b949e; font: 400 12px 'Courier New', monospace; }
+      .contribution-none { fill: #161b22; }
+      .contribution-low { fill: #0e4429; }
+      .contribution-med { fill: #006d32; }
+      .contribution-high { fill: #26a641; }
+      .contribution-max { fill: #39d353; }
+    </style>
+  </defs>
+  
+  <rect width="800" height="180" fill="#0D1117"/>
+  
+  <text class="title" x="400" y="25" text-anchor="middle">🐍 GitHub Contribution Activity 🐍</text>
+  
+  <!-- Contribution Grid (simplified snake pattern) -->
+  <g transform="translate(60, 50)">
+    <!-- Row 1 - Snake head moving right -->
+    <rect class="contribution-max" x="0" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="18" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="36" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="54" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="72" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="90" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-none" x="108" y="0" width="12" height="12" rx="2"/>
+    
+    <!-- Continue pattern across multiple rows to create snake effect -->
+    <rect class="contribution-none" x="126" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="144" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="162" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="180" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="198" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="216" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="234" y="0" width="12" height="12" rx="2"/>
+    
+    <rect class="contribution-med" x="252" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="270" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-none" x="288" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="306" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="324" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="342" y="0" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="360" y="0" width="12" height="12" rx="2"/>
+    
+    <!-- Row 2 -->
+    <rect class="contribution-high" x="0" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="18" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="36" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-none" x="54" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="72" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="90" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="108" y="18" width="12" height="12" rx="2"/>
+    
+    <rect class="contribution-max" x="126" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="144" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="162" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="180" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="198" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-none" x="216" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="234" y="18" width="12" height="12" rx="2"/>
+    
+    <rect class="contribution-med" x="252" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="270" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="288" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="306" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="324" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="342" y="18" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="360" y="18" width="12" height="12" rx="2"/>
+    
+    <!-- Row 3 -->
+    <rect class="contribution-max" x="0" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="18" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="36" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="54" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="72" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-none" x="90" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="108" y="36" width="12" height="12" rx="2"/>
+    
+    <rect class="contribution-med" x="126" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="144" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="162" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="180" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="198" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="216" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="234" y="36" width="12" height="12" rx="2"/>
+    
+    <rect class="contribution-none" x="252" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="270" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="288" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="306" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="324" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="342" y="36" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="360" y="36" width="12" height="12" rx="2"/>
+    
+    <!-- Row 4 -->
+    <rect class="contribution-low" x="0" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-none" x="18" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="36" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="54" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="72" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="90" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="108" y="54" width="12" height="12" rx="2"/>
+    
+    <rect class="contribution-high" x="126" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="144" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="162" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-none" x="180" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="198" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="216" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="234" y="54" width="12" height="12" rx="2"/>
+    
+    <rect class="contribution-max" x="252" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="270" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="288" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="306" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="324" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-none" x="342" y="54" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="360" y="54" width="12" height="12" rx="2"/>
+    
+    <!-- Row 5 -->
+    <rect class="contribution-high" x="0" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="18" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="36" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="54" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="72" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="90" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-none" x="108" y="72" width="12" height="12" rx="2"/>
+    
+    <rect class="contribution-low" x="126" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="144" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="162" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="180" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="198" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="216" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="234" y="72" width="12" height="12" rx="2"/>
+    
+    <rect class="contribution-low" x="252" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-none" x="270" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-low" x="288" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-med" x="306" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-high" x="324" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="342" y="72" width="12" height="12" rx="2"/>
+    <rect class="contribution-max" x="360" y="72" width="12" height="12" rx="2"/>
+  </g>
+  
+  <text class="label" x="400" y="160" text-anchor="middle">Consistent contributions throughout the year</text>
+</svg>

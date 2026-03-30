@@ -1,0 +1,28 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { fill: #00FF41; font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .desc { fill: #FFFFFF; font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .lang { fill: #FFFFFF; font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .stars { fill: #FFD700; font: 700 12px 'Segoe UI', Ubuntu, Sans-Serif; }
+    </style>
+  </defs>
+  
+  <rect width="400" height="120" fill="#0D1117" stroke="#00ff41" stroke-width="1" rx="4.5"/>
+  
+  <g transform="translate(15, 25)">
+    <text class="title" x="0" y="0">📊 mcp-kql-server</text>
+    
+    <text class="desc" x="0" y="30">Advanced KQL query execution and</text>
+    <text class="desc" x="0" y="48">threat hunting automation</text>
+    
+    <g transform="translate(0, 75)">
+      <circle cx="5" cy="0" r="5" fill="#3572A5"/>
+      <text class="lang" x="15" y="4">Python</text>
+      
+      <text class="stars" x="80" y="4">⭐ 45</text>
+      
+      <text class="lang" x="135" y="4">🍴 12 forks</text>
+    </g>
+  </g>
+</svg>
