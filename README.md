@@ -20,9 +20,24 @@
 
 ## ⚡ Executive Summary
 
+<table>
+<tr>
+<td width="160" align="center" valign="middle">
+  <a href="https://4r9un.github.io">
+    <img src="./assets/arjun-vector-blue.png" alt="Arjun Trivedi Portrait" width="136" />
+  </a>
+  <br/>
+  <sub><b>Arjun Trivedi</b><br/><code>@4R9UN</code></sub>
+</td>
+<td valign="middle">
+
 **Security Research & Agentic AI Engineering Leader** with **12+ years** in cybersecurity and **7+ years at Microsoft**. I directly manage and technically lead a **15-person global detection engineering & security research organization**, owning technical strategy, hiring, mentoring, and production delivery across product engineering, data science, SOC operations, and enterprise customers.
 
 My work sits at the intersection of **Autonomous Security Agents (MCP / Multi-Agent Reasoning)**, **AI Red Teaming & Guardrails**, **Forward-Deployed Enterprise Execution (FDE)**, and **Planet-Scale Detection Engineering & Applied ML**—turning complex nation-state, multi-cloud, and AI security challenges into shipped Microsoft capabilities protecting **1,000+ enterprises** and **100M+ users across 150 countries**.
+
+</td>
+</tr>
+</table>
 
 ---
 
