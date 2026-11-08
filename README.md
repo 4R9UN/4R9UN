@@ -24,16 +24,16 @@
 <tr>
 <td width="160" align="center" valign="middle">
   <a href="https://4r9un.github.io">
-    <img src="./assets/arjun-executive-studio.png" alt="Arjun Trivedi Studio Portrait" width="136" />
+    <img src="./assets/arjun-avatar.jpg" alt="Arjun Trivedi Portrait" width="136" />
   </a>
   <br/>
   <sub><b>Arjun Trivedi</b><br/><code>@4R9UN</code></sub>
 </td>
 <td valign="middle">
 
-**Security Research & Agentic AI Engineering Leader** with **12+ years** in cybersecurity and **7+ years at Microsoft**. I directly manage and technically lead a **15-person global detection engineering & security research organization**, owning technical strategy, hiring, mentoring, and production delivery across product engineering, data science, SOC operations, and enterprise customers.
+**Executive Security Research, Applied Science & Agentic AI Leader** with **12+ years** in cybersecurity and **7+ years at Microsoft**. I lead global **Security Research & Applied Science teams** at Microsoft—combining executive people leadership, organizational strategy, and mentorship with deep hands-on technical architecture to invent and ship breakthrough **Agentic AI**, **Production MCP Servers**, **Vibe Research Platforms**, and autonomous defense solutions across product engineering, data science, SOC operations, and enterprise customers.
 
-My work sits at the intersection of **Autonomous Security Agents (MCP / Multi-Agent Reasoning)**, **AI Red Teaming & Guardrails**, **Forward-Deployed Enterprise Execution (FDE)**, and **Planet-Scale Detection Engineering & Applied ML**—turning complex nation-state, multi-cloud, and AI security challenges into shipped Microsoft capabilities protecting **1,000+ enterprises** and **100M+ users across 150 countries**.
+My work sits at the intersection of **Autonomous Security Agents (MCP / Multi-Agent Reasoning)**, **AI Red Teaming & Guardrails**, **Forward-Deployed Enterprise Execution (FDE)**, and **Planet-Scale Detection Engineering & Applied ML**—turning complex nation-state, multi-cloud, and AI security challenges into shipped Microsoft capabilities (**Project Perception**, **Security Copilot**) protecting **1,000+ enterprises** and **100M+ users across 150 countries**.
 
 </td>
 </tr>
@@ -46,6 +46,44 @@ My work sits at the intersection of **Autonomous Security Agents (MCP / Multi-Ag
 <div align="center">
   <img src="./assets/agentic-security-workflow.svg" alt="Agentic Security Architecture & MCP Grounding Pipeline" width="100%" />
 </div>
+
+### ⚡ Run This Agentic Security & MCP Stack in 60 Seconds
+
+Every stage in the architecture diagram above maps directly to shipped, open-source repositories in this GitHub profile, verified PyPI packages, and live sandboxes:
+
+#### 1️⃣ Stage 1 & 2 — Install Schema-Grounded NL2KQL & Threat-Intel MCP Servers
+```bash
+pip install mcp-kql-server fastmcp-threatintel
+```
+Add both verified MCP servers to your **Claude Desktop**, **GitHub Copilot CLI**, **Cursor**, or **VS Code** `mcp-config.json`:
+```json
+{
+  "mcpServers": {
+    "kql-sentinel": {
+      "command": "python",
+      "args": ["-m", "mcp_kql_server"],
+      "env": { "AZURE_CORE_ONLY_SHOW_ERRORS": "true" }
+    },
+    "threatintel-cti": {
+      "command": "fastmcp-threatintel",
+      "env": {
+        "VIRUSTOTAL_API_KEY": "YOUR_VT_KEY",
+        "OTX_API_KEY": "YOUR_OTX_KEY",
+        "ABUSEIPDB_API_KEY": "YOUR_ABUSE_KEY"
+      }
+    }
+  }
+}
+```
+- **Repositories:** [`4R9UN/mcp-kql-server`](https://github.com/4R9UN/mcp-kql-server) (`PyPI v2.1.5` · Official MCP Registry) · [`4R9UN/fastmcp-threatintel`](https://github.com/4R9UN/fastmcp-threatintel) (`PyPI v0.2.7` · ★ 40) · [`4R9UN/Multi-Cloud-Notebooks`](https://github.com/4R9UN/Multi-Cloud-Notebooks) (`1,000+` Sentinel enterprise deployments)
+
+#### 2️⃣ Stage 3 — Multi-SIEM Autonomous Investigation (`ASRS`) & Bounded Agent Harness (`Assured-Arc`)
+- **Launch Live Multi-SIEM Agent Sandbox:** [**`https://asrs-demo-v1.vercel.app/`**](https://asrs-demo-v1.vercel.app/) ([`4R9UN/ASRS-demo`](https://github.com/4R9UN/ASRS-demo))
+- **Install `Assured-Arc` Multi-Agent Security Harness for GitHub Copilot:**
+```powershell
+git clone https://github.com/4R9UN/Assured-Arc.git
+pwsh -File .\Assured-Arc\scripts\install.ps1 -Profile full -Target both
+```
 
 ---
 
@@ -117,7 +155,7 @@ My work sits at the intersection of **Autonomous Security Agents (MCP / Multi-Ag
 
 ## 💼 Career Trajectory & Education
 
-- **Microsoft — Senior Security Researcher | Detection Engineering & AI Security** (`Aug 2020 – Present`, Hyderabad, India): Leads 15-person global research & detection team; Project Perception hunting agents; Security Copilot RAG grounding (`+35%` accuracy); AI Red Teaming; Applied ML (`-30%` FP); `200+` KQL rules (`-50%` MTTR); Multi Cloud Attack Coverage Essentials (`1,000+` enterprises); `50+` enterprise FDE escalations (`+20%` CSAT).
+- **Microsoft — Senior Security Researcher | Detection Engineering & AI Security** (`Aug 2020 – Present`, Hyderabad, India): Leads global Security Research & Applied Science teams; Project Perception hunting agents; Security Copilot RAG grounding (`+35%` accuracy); AI Red Teaming; Applied ML (`-30%` FP); `200+` KQL rules (`-50%` MTTR); Multi Cloud Attack Coverage Essentials (`1,000+` enterprises); `50+` enterprise FDE escalations (`+20%` CSAT).
 - **Microsoft — Cyber Threat Hunter | Microsoft Threat Experts** (`Mar 2019 – Aug 2020`, India): Pioneer member of Microsoft Threat Experts on-demand service; Tier-1 hunting SME lead; cross-platform ML IOC detection pipelines & RE quality governance.
 - **Wipro — Malware Analyst** (`Jun 2017 – Feb 2019`, India): Android APK & native library reverse engineering (`IDA Pro`, `Ghidra`); PE/non-PE behavioral sandboxes; threat intelligence white papers.
 - **Sophos — Threat Researcher** (`Sep 2014 – May 2017`, India): Static/dynamic reverse engineering of bots, worms, ransomware & packed executables; behavioral detections protecting `100M+` users across `150` countries.
@@ -134,7 +172,7 @@ My work sits at the intersection of **Autonomous Security Agents (MCP / Multi-Ag
 | **Detection & Threat Research** | Microsoft Sentinel · Microsoft Defender XDR · `KQL` (200+ production rules) · UEBA · Identity & AiTM Detection · MITRE ATT&CK · Nation-State Campaign Tracking · Malware Reverse Engineering (`IDA Pro`, `Ghidra`) |
 | **Applied ML & Automation** | `Python` · `MSTICPy` · `Jupyter` · Random Forest · Gradient Boosting · Isolation Forest · One-Class SVM · YARA · STIX 2.1 |
 | **Cloud & Production Infra** | `Azure` · `AWS` · `GCP` · `Okta` · `Splunk` · `Elastic Security` · `Azure Data Explorer (Kusto)` · `TypeScript` · `FastAPI` · `Docker` · `Azure Container Apps` · `Bicep IaC` · Managed Identity |
-| **Executive Leadership** | 15-Person Global Org Management · Technical Strategy & Roadmap Ownership · AI Forward Deployed Engineering (50+ Enterprises) · Research-to-Product Transfer · Cross-Functional Executive Alignment |
+| **Executive Leadership** | Global Security Research & Applied Science Org Leadership · Technical Strategy & Roadmap Ownership · Vibe Research Platform Architecture · AI Forward Deployed Engineering (50+ Enterprises) · Research-to-Product Transfer |
 
 ---
 

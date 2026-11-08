@@ -56,7 +56,7 @@
     <text x="0" y="12" fill="#f8fafc" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" letter-spacing="0.5">ARJUN TRIVEDI</text>
     <text x="322" y="10" fill="url(#cyanGlow)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="700">// PRINCIPAL AI SECURITY · AGENTIC ARCHITECT · AI FDE LEADER</text>
     <text x="0" y="42" fill="#94a3b8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="400">
-      Leading a 15-person global detection engineering &amp; AI security research team at Microsoft. Bridging autonomous multi-agent security,
+      Leading global Security Research &amp; Applied Science teams at Microsoft. Bridging autonomous multi-agent security,
     </text>
     <text x="0" y="64" fill="#94a3b8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="400">
       AI red teaming, and forward-deployed enterprise execution across Microsoft Sentinel, Defender XDR, and Security Copilot.
@@ -95,8 +95,8 @@
     <g transform="translate(380, 0)">
       <rect x="0" y="0" width="176" height="76" rx="12" fill="url(#cardGrad)" stroke="#1e293b" stroke-width="1.2"/>
       <line x1="14" y1="0" x2="80" y2="0" stroke="#8b5cf6" stroke-width="2.5"/>
-      <text x="16" y="34" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="800">15 Direct</text>
-      <text x="16" y="56" fill="#cbd5e1" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">GLOBAL ENGINEERS LED</text>
+      <text x="16" y="34" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="800">200+ KQL</text>
+      <text x="16" y="56" fill="#cbd5e1" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">DETECTIONS (-50% MTTR)</text>
     </g>
     <!-- Counter 4 -->
     <g transform="translate(570, 0)">
