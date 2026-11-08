@@ -24,7 +24,7 @@
 <tr>
 <td width="160" align="center" valign="middle">
   <a href="https://4r9un.github.io">
-    <img src="./assets/arjun-vector-blue.png" alt="Arjun Trivedi Portrait" width="136" />
+    <img src="./assets/arjun-executive-studio.png" alt="Arjun Trivedi Studio Portrait" width="136" />
   </a>
   <br/>
   <sub><b>Arjun Trivedi</b><br/><code>@4R9UN</code></sub>
@@ -112,6 +112,17 @@ My work sits at the intersection of **Autonomous Security Agents (MCP / Multi-Ag
 - 🎙️ **Featured Guest — [AZ Security Podcast (Episode 27)](https://www.youtube.com/watch?v=c8g4b7_1vXo):** Deep dive into `mcp-kql-server`, schema-grounded NL2KQL, advanced threat hunting, and AI-enabled SOC automation.
 - 📰 **Author — [MCP KQL Server Newsletter](https://arjuntrivedi.substack.com) (`1,900+` Subscribers) & `15+` Technical Publications:** Published across [Microsoft Tech Community](https://techcommunity.microsoft.com/users/arjun_trivedi/1208210) and [Arjun's Cyber Insights](https://arjun-trivedi.blogspot.com/), covering practical risks in cybersecurity agents, multi-cloud detections, and agentic defense.
 - 👨‍🏫 **Executive Mentorship & Community Builder:** Mentored **50+ security engineers and researchers** globally across detection engineering, AI security, and threat hunting.
+
+---
+
+## 💼 Career Trajectory & Education
+
+- **Microsoft — Senior Security Researcher | Detection Engineering & AI Security** (`Aug 2020 – Present`, Hyderabad, India): Leads 15-person global research & detection team; Project Perception hunting agents; Security Copilot RAG grounding (`+35%` accuracy); AI Red Teaming; Applied ML (`-30%` FP); `200+` KQL rules (`-50%` MTTR); Multi Cloud Attack Coverage Essentials (`1,000+` enterprises); `50+` enterprise FDE escalations (`+20%` CSAT).
+- **Microsoft — Cyber Threat Hunter | Microsoft Threat Experts** (`Mar 2019 – Aug 2020`, India): Pioneer member of Microsoft Threat Experts on-demand service; Tier-1 hunting SME lead; cross-platform ML IOC detection pipelines & RE quality governance.
+- **Wipro — Malware Analyst** (`Jun 2017 – Feb 2019`, India): Android APK & native library reverse engineering (`IDA Pro`, `Ghidra`); PE/non-PE behavioral sandboxes; threat intelligence white papers.
+- **Sophos — Threat Researcher** (`Sep 2014 – May 2017`, India): Static/dynamic reverse engineering of bots, worms, ransomware & packed executables; behavioral detections protecting `100M+` users across `150` countries.
+- **Early Technical Foundations:** Confidential Government Defense Malware-Detection R&D Project (Python automation & exploit PoCs) + Cybersecurity & Programming Instructor.
+- **Education & Certifications:** **M.Sc. in Information Technology** (Amity University, `2015–2017`) · **B.Sc. in Computer Science (IT)** (K.R. Doshi Group of CS College, M.K. Bhavnagar University, `2013–2015`) · **SANS FOR578: Cyber Threat Intelligence** · **Microsoft SkillUp AI: Applied AI & Responsible AI Development** · **Cyber Security & Ethical Hacking** (Appin Technologies).
 
 ---
 
