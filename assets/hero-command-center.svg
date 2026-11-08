@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="320" role="img" aria-label="Arjun Trivedi Executive AI and Security Research Command Center Banner">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050812"/>
+      <stop offset="50%" stop-color="#0a1022"/>
+      <stop offset="100%" stop-color="#060914"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#8b5cf6" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111a33" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#0b1122" stop-opacity="0.92"/>
+    </linearGradient>
+    <radialGradient id="orbCyan" cx="15%" cy="20%" r="45%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbViolet" cx="85%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1e293b" stroke-width="0.7" stroke-opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <!-- Main Frame -->
+  <rect x="2" y="2" width="1196" height="316" rx="18" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="316" rx="18" fill="url(#grid)"/>
+  <rect x="2" y="2" width="1196" height="316" rx="18" fill="url(#orbCyan)"/>
+  <rect x="2" y="2" width="1196" height="316" rx="18" fill="url(#orbViolet)"/>
+
+  <!-- Top Telemetry Bar -->
+  <g transform="translate(36, 24)">
+    <rect x="0" y="0" width="390" height="28" rx="14" fill="#0d162d" stroke="#00f0ff" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="16" cy="14" r="4.5" fill="#10b981"/>
+    <circle cx="16" cy="14" r="8" fill="#10b981" fill-opacity="0.25"/>
+    <text x="30" y="18" fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="0.8">EXECUTIVE COMMAND CENTER // @4R9UN</text>
+
+    <rect x="404" y="0" width="286" height="28" rx="14" fill="#131836" stroke="#8b5cf6" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="420" y="18" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="600">MICROSOFT SENIOR SECURITY RESEARCHER</text>
+
+    <rect x="704" y="0" width="424" height="28" rx="14" fill="#0c2424" stroke="#10b981" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="720" y="18" fill="#6ee7b7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="600">OFFICIAL MCP REGISTRY &amp; MSEEP VERIFIED ARCHITECT</text>
+  </g>
+
+  <!-- Executive Identity & Positioning -->
+  <g transform="translate(36, 86)">
+    <text x="0" y="12" fill="#f8fafc" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" letter-spacing="0.5">ARJUN TRIVEDI</text>
+    <text x="322" y="10" fill="url(#cyanGlow)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="700">// PRINCIPAL AI SECURITY · AGENTIC ARCHITECT · AI FDE LEADER</text>
+    <text x="0" y="42" fill="#94a3b8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="400">
+      Leading a 15-person global detection engineering &amp; AI security research team at Microsoft. Bridging autonomous multi-agent security,
+    </text>
+    <text x="0" y="64" fill="#94a3b8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="400">
+      AI red teaming, and forward-deployed enterprise execution across Microsoft Sentinel, Defender XDR, and Security Copilot.
+    </text>
+  </g>
+
+  <!-- Three Core Market Pillars -->
+  <g transform="translate(36, 166)">
+    <rect x="0" y="0" width="362" height="34" rx="8" fill="#0d1b35" stroke="#00f0ff" stroke-opacity="0.55" stroke-width="1.2"/>
+    <text x="14" y="21" fill="#00f0ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700">01 // AGENTIC AI &amp; MCP ARCHITECTURE</text>
+
+    <rect x="381" y="0" width="386" height="34" rx="8" fill="#171336" stroke="#8b5cf6" stroke-opacity="0.55" stroke-width="1.2"/>
+    <text x="395" y="21" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700">02 // AI FORWARD DEPLOYED ENGINEERING (FDE)</text>
+
+    <rect x="786" y="0" width="342" height="34" rx="8" fill="#0a2322" stroke="#10b981" stroke-opacity="0.55" stroke-width="1.2"/>
+    <text x="800" y="21" fill="#6ee7b7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700">03 // DETECTION &amp; APPLIED ML AT SCALE</text>
+  </g>
+
+  <!-- 6 Verified Impact Counters -->
+  <g transform="translate(36, 218)">
+    <!-- Counter 1 -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="176" height="76" rx="12" fill="url(#cardGrad)" stroke="#1e293b" stroke-width="1.2"/>
+      <line x1="14" y1="0" x2="80" y2="0" stroke="#00f0ff" stroke-width="2.5"/>
+      <text x="16" y="34" fill="#00f0ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="800">12+ Yrs</text>
+      <text x="16" y="56" fill="#cbd5e1" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">CYBERSECURITY R&amp;D</text>
+    </g>
+    <!-- Counter 2 -->
+    <g transform="translate(190, 0)">
+      <rect x="0" y="0" width="176" height="76" rx="12" fill="url(#cardGrad)" stroke="#1e293b" stroke-width="1.2"/>
+      <line x1="14" y1="0" x2="80" y2="0" stroke="#38bdf8" stroke-width="2.5"/>
+      <text x="16" y="34" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="800">7+ Yrs</text>
+      <text x="16" y="56" fill="#cbd5e1" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">MICROSOFT SECURITY</text>
+    </g>
+    <!-- Counter 3 -->
+    <g transform="translate(380, 0)">
+      <rect x="0" y="0" width="176" height="76" rx="12" fill="url(#cardGrad)" stroke="#1e293b" stroke-width="1.2"/>
+      <line x1="14" y1="0" x2="80" y2="0" stroke="#8b5cf6" stroke-width="2.5"/>
+      <text x="16" y="34" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="800">15 Direct</text>
+      <text x="16" y="56" fill="#cbd5e1" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">GLOBAL ENGINEERS LED</text>
+    </g>
+    <!-- Counter 4 -->
+    <g transform="translate(570, 0)">
+      <rect x="0" y="0" width="176" height="76" rx="12" fill="url(#cardGrad)" stroke="#1e293b" stroke-width="1.2"/>
+      <line x1="14" y1="0" x2="80" y2="0" stroke="#10b981" stroke-width="2.5"/>
+      <text x="16" y="34" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="800">1,000+</text>
+      <text x="16" y="56" fill="#cbd5e1" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">ENTERPRISE ADOPTIONS</text>
+    </g>
+    <!-- Counter 5 -->
+    <g transform="translate(760, 0)">
+      <rect x="0" y="0" width="176" height="76" rx="12" fill="url(#cardGrad)" stroke="#1e293b" stroke-width="1.2"/>
+      <line x1="14" y1="0" x2="80" y2="0" stroke="#f59e0b" stroke-width="2.5"/>
+      <text x="16" y="34" fill="#fbbf24" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="800">+35% Lift</text>
+      <text x="16" y="56" fill="#cbd5e1" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">COPILOT RAG ACCURACY</text>
+    </g>
+    <!-- Counter 6 -->
+    <g transform="translate(950, 0)">
+      <rect x="0" y="0" width="178" height="76" rx="12" fill="url(#cardGrad)" stroke="#1e293b" stroke-width="1.2"/>
+      <line x1="14" y1="0" x2="80" y2="0" stroke="#00f0ff" stroke-width="2.5"/>
+      <text x="16" y="34" fill="#00f0ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="800">50+ Corps</text>
+      <text x="16" y="56" fill="#cbd5e1" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" font-weight="600">FDE ESCALATIONS (+20% CSAT)</text>
+    </g>
+  </g>
+</svg>
