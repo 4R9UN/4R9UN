@@ -178,8 +178,8 @@ pwsh -File .\Assured-Arc\scripts\install.ps1 -Profile full -Target both
 
 <div align="center">
 
-### 🤝 Open to Executive & Principal Leadership Conversations
-**Target Mandates:** `Principal / Director of AI Security` · `Head of Detection Engineering & Threat Research` · `AI Forward Deployed Engineering (FDE) Leader` · `Principal Security Architect (Agentic AI)`
+### 🌐 Connect & Research Portfolio
+**Focus Areas:** `Agentic AI Security & MCP Servers` · `Detection Engineering & Threat Research` · `Vibe Research Platforms` · `Enterprise AI Defense`
 
 [![Visit Executive Portfolio](https://img.shields.io/badge/🚀_Explore_Interactive_Command_Center-4R9UN.github.io-00F0FF?style=for-the-badge&labelColor=060913)](https://4r9un.github.io)
 [![Connect on LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-imarjuntrivedi-0A66C2?style=for-the-badge&labelColor=060913)](https://www.linkedin.com/in/imarjuntrivedi/)
