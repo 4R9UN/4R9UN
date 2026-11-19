@@ -1,338 +1,193 @@
-<!-- <img align="center" width=200 src="https://media.licdn.com/dms/image/v2/D5603AQFOa8tKtIDGaw/profile-displayphoto-scale_200_200/B56Ze2Swu8HUAc-/0/1751110062470?e=1756944000&v=beta&t=2s-t1rlCMYYb7eljJPO645_i1AhJhzQANP6nBW0jCPo"/> -->
-
 <div align="center">
 
-# 🛡️ Welcome to Arjun Trivedi's Digital Arsenal 🛡️
-
-<img src="assets/stats/header-title.svg" alt="Arjun Trivedi - Senior Security Researcher, Cyber Threat Hunter, AI Security Architect" />
-
-<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
-
-## 🔥 𝓒𝓤𝓡𝓡𝓔𝓝𝓣 𝓜𝓘𝓢𝓢𝓘𝓞𝓝 🔥
-
-<img src="assets/stats/current-mission.svg" alt="Current Mission - Hunting Advanced Persistent Threats, Developing AI-Powered Security Tools, Securing Multi-Cloud Environments, Automating Threat Detection and Response" />
-
-<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Live Demo — Try ASRS Now!
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-### 🤖 ASRS — Autonomous Security Response System
-
-**A Unified SIEM Investigation Platform powered by AI Agents**
-
-AI agents autonomously investigate security incidents and alerts across multiple SIEMs —  
-**Microsoft Sentinel · Splunk · Elastic Security** — correlating evidence across sources  
-and producing accurate, evidence-backed investigation summaries.
+<a href="https://4r9un.github.io">
+  <img src="./assets/hero-command-center.svg" alt="Arjun Trivedi — Executive AI & Security Research Command Center" width="100%" />
+</a>
 
 <br/>
 
-[![Open Demo](https://img.shields.io/badge/🔴_LIVE-Open%20ASRS%20Demo-00FF41?style=for-the-badge&labelColor=000000)](https://asrs-demo-v1.vercel.app/)
-
-🔗 **[https://asrs-demo-v1.vercel.app/](https://asrs-demo-v1.vercel.app/)**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🚀 About Me
-
-<div align="justify">
-
-I'm passionate about **defending digital ecosystems** through advanced threat hunting, AI-driven security, and cloud protection. I specialize in automation and AI-tools development that empower security teams with cutting-edge threat detection and response capabilities.
-
-> 💡 **ASRS is my current innovation and motivation project** — a **Unified SIEM investigation platform** where AI agents autonomously investigate security incidents and alerts across multiple SIEMs (Sentinel, Splunk, Elastic), correlating evidence across sources to produce accurate, evidence-backed investigation summaries. [**Try the live demo →**](https://asrs-demo-v1.vercel.app/)
-
-> *"In cybersecurity, you're only as strong as your weakest detection rule"* 🎯
-> 
-> *"The future of security is not just reactive - it's predictive, proactive, and AI-powered"* 🤖
-
-</div>
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=4R9UN&color=00ff41&style=for-the-badge&label=DIGITAL+VISITORS)
-![GitHub Followers](https://img.shields.io/github/followers/4R9UN?style=for-the-badge&color=blue&labelColor=000000)
-
-</div>
-
-| 🎖️ **Certification** | 🏅 **Achievement** | 🌟 **Recognition** |
-|:---:|:---:|:---:|
-| ![SANS Certified](https://img.shields.io/badge/SANS-Cyber%20Threat%20Intelligence-blueviolet?style=for-the-badge) | ![Microsoft Hackathon](https://img.shields.io/badge/Microsoft-Hackathon%202023%20Judge-orange?style=for-the-badge) | ![Hackathon Winner](https://img.shields.io/badge/Microsoft-Hackathon%202023%20Winner%20MSTICPy%20AI-gold?style=for-the-badge) |
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-| Platform | Link | Description |
-|:---:|:---|:---|
-| 💼 | [LinkedIn - imarjuntrivedi](https://www.linkedin.com/in/imarjuntrivedi/) | Professional Network & Industry Insights |
-| 🐙 | [GitHub - 4R9UN](https://github.com/4R9UN) | Open Source Security Projects |
-| 📝 | [Arjun's Cyber Insights](https://arjun-trivedi.blogspot.com/) | Threat Hunting Tips & Security Research |
-| 🌐 | [Microsoft Tech Community](https://techcommunity.microsoft.com/users/arjun_trivedi/1208210) | Sentinel Community Contributions |
-| 📦 | [PyPI - Arjun_Trivedi](https://pypi.org/user/Arjun_Trivedi/) | Python Security Packages |
-| 📧 | [arjuntrivedi42@yahoo.com](mailto:arjuntrivedi42@yahoo.com) | Direct Communication |
-
-</div>
-
-## 🔥 Current Focus Areas
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((🛡️ Security Research))
-    🔧 MCP Tools Development
-      AI-Powered Detection
-      Automation Frameworks
-      Custom Integrations
-    ☁️ Multi-Cloud Security
-      Microsoft Defender Enhancement
-      AWS Security Monitoring
-      Google Cloud Protection
-      Okta Identity Security
-    🤖 AI Security Integration
-      GPT-based Security Copilot
-      Machine Learning Detection
-      Automated Threat Analysis
-    📊 Threat Hunting Automation
-      Jupyter Notebooks
-      KQL Query Development
-      Real-time Analytics
-```
-
-</div>
-
-### 🎯 What I'm Working On
-
-- 🤖 **ASRS — Unified SIEM Platform**: AI agents that autonomously investigate incidents & alerts across Sentinel, Splunk & Elastic — [**Try the live demo**](https://asrs-demo-v1.vercel.app/)
-- 🔍 **MCP Tools Development**: Building next-gen security automation tools
-- 🛡️ **Microsoft Defender Enhancement**: Multi-cloud and 3rd-party integrations (AWS, GCP, Okta)
-- 📊 **Threat Hunting Automation**: Jupyter Notebooks and advanced KQL queries
-- 🌱 **Learning**: Next-gen AI security integrations & GPT-based Security Copilot
-- 💡 **Interests**: Detection development, reverse engineering, threat intelligence, mentoring
-
-## 🛠️ Technology Arsenal
-
-<div align="center">
-
-### **Core Technologies**
-
-<p>
-  <code><img alt="Python" title="Python - Primary Language" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img alt="Jupyter" title="Jupyter - Data Analysis & Threat Hunting" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img alt="Azure" title="Azure - Cloud Security Platform" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-  <code><img alt="AWS" title="AWS - Multi-Cloud Security" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-</p>
-
-### **Security Specializations**
-
-![KQL](https://img.shields.io/badge/KQL-Query%20Language-blue?style=for-the-badge&logo=microsoft)
-![SIEM](https://img.shields.io/badge/SIEM-Security%20Information%20%26%20Event%20Management-red?style=for-the-badge)
-![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-Advanced%20Persistent%20Threats-orange?style=for-the-badge)
-![AI Security](https://img.shields.io/badge/AI%20Security-Machine%20Learning%20Defense-green?style=for-the-badge)
+[![Executive Portfolio](https://img.shields.io/badge/🌐_EXECUTIVE_PORTFOLIO-4R9UN.github.io-00F0FF?style=for-the-badge&labelColor=060913)](https://4r9un.github.io)
+[![Live ASRS Demo](https://img.shields.io/badge/⚡_LIVE_MULTI--SIEM_DEMO-ASRS_Platform-10B981?style=for-the-badge&labelColor=060913)](https://asrs-demo-v1.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun_Trivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060913)](https://www.linkedin.com/in/imarjuntrivedi/)
+[![Official MCP Registry](https://img.shields.io/badge/MCP_Registry-Verified_Publisher-8B5CF6?style=for-the-badge&labelColor=060913)](https://registry.modelcontextprotocol.io/?q=4R9UN)
+[![PyPI Packages](https://img.shields.io/badge/PyPI-Arjun__Trivedi-F59E0B?style=for-the-badge&logo=pypi&logoColor=white&labelColor=060913)](https://pypi.org/user/Arjun_Trivedi/)
+[![Newsletter](https://img.shields.io/badge/Substack-1,900+_Subscribers-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=060913)](https://arjuntrivedi.substack.com)
+[![Email](https://img.shields.io/badge/Direct-arjuntrivedi42%40yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060913)](mailto:arjuntrivedi42@yahoo.com)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=4R9UN\&repo=fastmcp-threatintel\&show_owner=true)
-
-![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=4R9UN\&repo=mcp-kql-server\&show_owner=true)
-
-<p><i>👆 Select project cards above to visit the live repositories</i></p>
-
-</div>
-
-
-
-### 🎯 Project Highlights
-
-| 🚀 **Project** | 📝 **Description** | 🔧 **Tech Stack** |
-|:---|:---|:---|
-| **MCP KQL Server** | Advanced KQL query execution and threat hunting automation | Python, Azure, KQL |
-| **FastMCP ThreatIntel** | Real-time threat intelligence processing and analysis | FastAPI, Machine Learning, OSINT |
-| **Multi-Cloud Detections** | Cross-platform security monitoring and alerting | AWS, Azure, GCP, Python |
-
-## 📊 GitHub Analytics & Achievements
-
-<div align="center">
-
-### **📈 Performance Metrics**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4R9UN&theme=2077" alt="Stats summary"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4R9UN&theme=2077&utcOffset=5.5" alt="Productive time"/>
-
-
-## 📊 **GitHub Analytics & Achievements**
-
-<div align="center">
-
-<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
-
-### ⚡ **Performance Dashboard** ⚡
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4R9UN&theme=2077" alt="Profile details"/>
-
-</div>
-
-
-### 🏆 **Achievement Trophy Hall** 🏆
-
-<!-- This one is already a good choice; keeping it. -->
-<img src="https://github-profile-trophy.vercel.app/?username=4R9UN&theme=matrix&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-
-
-<img src="assets/stats/contribution-snake.svg" alt="GitHub Contribution Snake Animation showing consistent contribution activity throughout the year"/>
-
-<p><i>📅 <a href="https://github.com/4R9UN?tab=overview">View live contribution graph</a></i></p>
-
-<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
-
-</div>
-
-## 🎯 Security Philosophy
-
-<div align="center">
-
-> ### *"The best defense is a good offense - hunt threats before they hunt you"*
-
-```ascii
-    ╭─────────────────────────────────────────╮
-    │  🔍 Proactive Threat Hunting            │
-    │  🤖 AI-Driven Defense Automation        │
-    │  ☁️  Multi-Cloud Security Excellence    │
-    │  🛡️  Zero-Trust Architecture Advocacy   │
-    │  📊 Data-Driven Security Decisions      │
-    ╰─────────────────────────────────────────╯
-```
-
-</div>
-
-## 🌟 Community Contributions
-
-<div align="center">
-
-| 🎯 **Area** | 📈 **Impact** | 🔗 **Platform** |
-|:---:|:---:|:---:|
-| **Open Source Security Tools** | 🌟 500+ Stars Across Projects | GitHub |
-| **Threat Hunting Tutorials** | 📖 10K+ Blog Readers | Personal Blog |
-| **Microsoft Sentinel Community** | 💬 Active Contributor | Tech Community |
-| **Security Mentorship** | 👨‍🏫 50+ Professionals Guided | LinkedIn & Direct |
-
-</div>
-
-<div align="center">
-
-<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
-
-### 🚨 **Digital Domain Headquarters** 🚨
-
-<p align="center">
-<a href="https://www.linkedin.com/in/imarjuntrivedi/" target="_blank">
-<img alt="LinkedIn Command Center" src="https://img.shields.io/badge/LinkedIn-TACTICAL_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-</a>
-<a href="mailto:arjuntrivedi42@yahoo.com" target="_blank">
-<img alt="Secure Comms" src="https://img.shields.io/badge/Email-ENCRYPTED_CHANNEL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://arjun-trivedi.blogspot.com/" target="_blank">
-<img alt="Intel Blog" src="https://img.shields.io/badge/Blog-THREAT_INTEL_HUB-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://github.com/4R9UN" target="_blank">
-<img alt="Arsenal Repository" src="https://img.shields.io/badge/GitHub-CYBER_ARSENAL-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-</a>
-</p>
-
-<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
-
-### 🛡️ **Digital Territory DISCLAIMER** 🛡️
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ⚠️  CLASSIFIED SECURITY RESEARCH DOMAIN ⚠️                                ║
-║                                                                              ║
-║  All tools, techniques, and methodologies shared within this repository     ║
-║  are strictly for EDUCATIONAL and DEFENSIVE cybersecurity purposes only.    ║
-║                                                                              ║
-║  🚫 Unauthorized offensive operations are strictly prohibited               ║
-║  ✅ Ethical security research and defense enhancement encouraged            ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-![Star Repositories](https://img.shields.io/badge/⭐_STAR_REPOSITORIES_TO_JOIN_THE_MISSION_⭐-FF0080?style=for-the-badge&labelColor=000000)
-
-![Secure Digital Frontier](https://img.shields.io/badge/🔥_SECURE_THE_DIGITAL_FRONTIER_WITH_AI_🔥-00FF41?style=for-the-badge&labelColor=000000)
-
-![Building Tomorrow](https://img.shields.io/badge/🌟_BUILDING_TOMORROW'S_CYBERSECURITY_TODAY_🌟-0080FF?style=for-the-badge&labelColor=000000)
-
-</div>
-
-### 🌟 **Digital Philosophy Manifesto** 🌟
+## ⚡ Executive Summary
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-**🔍 PROACTIVE HUNTING**  
-*Hunt threats before they hunt you*
-
+<td width="160" align="center" valign="middle">
+  <a href="https://4r9un.github.io">
+    <img src="./assets/arjun-avatar.jpg" alt="Arjun Trivedi Portrait" width="136" />
+  </a>
+  <br/>
+  <sub><b>Arjun Trivedi</b><br/><code>@4R9UN</code></sub>
 </td>
-<td align="center" width="33%">
+<td valign="middle">
 
-**🤖 AI-DRIVEN DEFENSE**  
-*Automate what can be automated*
+**Canonical Portfolio & Architecture Lab:** [**https://4r9un.github.io/**](https://4r9un.github.io/) · **LinkedIn:** [**in/imarjuntrivedi**](https://www.linkedin.com/in/imarjuntrivedi/)
 
-</td>
-<td align="center" width="33%">
+**Senior Security Researcher | Detection Engineering & AI Security at Microsoft** with **12+ years** in cybersecurity and **7+ years at Microsoft**. Experienced in leading and managing global multidisciplinary detection engineering, security research, and SecOps teams (`50+` engineers mentored) and shipping breakthrough **Agentic AI**, **Official MCP Registry Servers**, and autonomous defense platforms end to end from ambiguous R&D prototypes to enterprise GA scale.
 
-**🌐 GLOBAL PROTECTION**  
-*One code commit can protect thousands*
+My work sits at the intersection of **Autonomous Security Agents (MCP / Multi-Agent Reasoning)**, **AI Red Teaming & Guardrails**, **Forward-Deployed Enterprise Execution (FDE)**, and **Planet-Scale Detection Engineering & Applied ML**, turning complex nation-state, multi-cloud, and AI security challenges into shipped Microsoft capabilities (**Project Perception**, **Security Copilot**) protecting **1,000+ enterprises** and **100M+ users across 150 countries**.
 
 </td>
 </tr>
 </table>
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  "Cybersecurity is not just about technology - it's about building a         ║
-║   safer digital world for everyone, one algorithm at a time."               ║
-║                                          - Arjun Trivedi                    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+---
+
+## 🧠 Architecture Blueprint: Autonomous Agentic Defense & MCP Pipeline
+
+<div align="center">
+  <img src="./assets/agentic-security-workflow.svg" alt="Agentic Security Architecture & MCP Grounding Pipeline" width="100%" />
+</div>
+
+### ⚡ Run This Agentic Security & MCP Stack in 60 Seconds
+
+Every stage in the architecture diagram above maps directly to shipped, open-source repositories in this GitHub profile, verified PyPI packages, and live sandboxes:
+
+#### 1️⃣ Stage 1 & 2 — Install Schema-Grounded NL2KQL & Threat-Intel MCP Servers
+```bash
+pip install mcp-kql-server fastmcp-threatintel
+```
+Add both verified MCP servers to your **Claude Desktop**, **GitHub Copilot CLI**, **Cursor**, or **VS Code** `mcp-config.json`:
+```json
+{
+  "mcpServers": {
+    "kql-sentinel": {
+      "command": "python",
+      "args": ["-m", "mcp_kql_server"],
+      "env": { "AZURE_CORE_ONLY_SHOW_ERRORS": "true" }
+    },
+    "threatintel-cti": {
+      "command": "fastmcp-threatintel",
+      "env": {
+        "VIRUSTOTAL_API_KEY": "YOUR_VT_KEY",
+        "OTX_API_KEY": "YOUR_OTX_KEY",
+        "ABUSEIPDB_API_KEY": "YOUR_ABUSE_KEY"
+      }
+    }
+  }
+}
+```
+- **Repositories:** [`4R9UN/mcp-kql-server`](https://github.com/4R9UN/mcp-kql-server) (`PyPI v2.1.5` · Official MCP Registry) · [`4R9UN/fastmcp-threatintel`](https://github.com/4R9UN/fastmcp-threatintel) (`PyPI v0.2.7` · ★ 40) · [`4R9UN/Multi-Cloud-Notebooks`](https://github.com/4R9UN/Multi-Cloud-Notebooks) (`1,000+` Sentinel enterprise deployments)
+
+#### 2️⃣ Stage 3 — Multi-SIEM Autonomous Investigation (`ASRS`) & Bounded Agent Harness (`Assured-Arc`)
+- **Launch Live Multi-SIEM Agent Sandbox:** [**`https://asrs-demo-v1.vercel.app/`**](https://asrs-demo-v1.vercel.app/) ([`4R9UN/ASRS-demo`](https://github.com/4R9UN/ASRS-demo))
+- **Install `Assured-Arc` Multi-Agent Security Harness for GitHub Copilot:**
+```powershell
+git clone https://github.com/4R9UN/Assured-Arc.git
+Set-Location Assured-Arc
+.\install.ps1 -Profile CopilotCli -DryRun
+.\install.ps1 -Profile CopilotCli
 ```
 
-![Profile View ](https://komarev.com/ghpvc/?username=4R9UN&color=green)
+---
 
+## 🏛️ Three Signature Leadership Pillars
 
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
+### 01 // Agentic AI & AI Security Architecture
+- **Microsoft Project Perception:** Contributed research and threat-hunting agent capabilities applying organizational context, detection intelligence, and evidence-grade reasoning with human oversight.
+- **Microsoft Security Copilot (+35% Accuracy):** Engineered retrieval-augmented threat summarization and optimized context, token, and vector grounding to lift reported analyst accuracy by **35%**.
+- **AI Red Teaming & Guardrails:** Lead hands-on assessments for prompt injection, jailbreaks, unsafe tool invocation, authorization boundary failures, indirect instruction attacks, and excessive agency.
+- **Official MCP Ecosystem:** Creator of Official MCP Registry & MseeP-verified servers (`mcp-kql-server` v2.1.5, `fastmcp-threatintel` v0.2.7), `ASRS`, and `Assured-Arc`.
 
-<img src="assets/stats/line-neon.svg" width="100%" alt="Neon divider line">
+</td>
+<td width="33%" valign="top">
+
+### 02 // AI Forward Deployed Engineering (FDE)
+- **50+ Global Enterprise Escalations (+20% CSAT):** Partner directly with enterprise CISO & SOC teams to resolve critical SIEM, EDR/XDR, and AI security bottlenecks, converting customer field evidence into product roadmap priorities.
+- **1,000+ Enterprise Adoptions:** Co-created and shipped **Multi Cloud Attack Coverage Essentials** for Microsoft Sentinel, translating cross-cloud threat research into deployable analytics.
+- **R&D-to-Production Transfer:** Direct proof-of-concept architecture and production handoff across **Microsoft Sentinel**, **Defender XDR**, and **Security Copilot**.
+- **Pioneer — Microsoft Threat Experts:** Helped design and operationalize Microsoft's on-demand expert response service for human-operated attacks; led the Tier-1 hunting team.
+
+</td>
+<td width="33%" valign="top">
+
+### 03 // Detection Engineering & Applied ML at Scale
+- **200+ KQL Detections (-50% MTTR):** Architected cross-domain detections and correlation rules across Sentinel & Defender XDR covering identity threats, AiTM phishing, UEBA, cloud abuse, and advanced persistence.
+- **Production ML Models (-30% False Positives):** Developed and validated Random Forest, Gradient Boosting, Isolation Forest, and One-Class SVM models on high-volume security telemetry.
+- **Blue-Team Automation (-60% Effort):** Built **20+ Python, Jupyter & MSTICPy** automation assets for hunting, enrichment, and YARA generation.
+- **Deep Reverse Engineering Roots:** Former Malware Analyst (Wipro) & Threat Researcher (Sophos) protecting **100M+ users across 150 countries**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔄 AI Forward Deployed Engineering (FDE) Execution Flywheel
+
+<div align="center">
+  <img src="./assets/fde-execution-loop.svg" alt="AI Forward Deployed Engineering Execution Flywheel" width="100%" />
+</div>
+
+---
+
+## 🚀 Flagship Production Systems & Open-Source Arsenal
+
+| System / Repository | Category & Verification | Architecture & Measurable Capabilities | Links |
+| :--- | :--- | :--- | :--- |
+| **[ASRS — Autonomous Security Reasoning System](https://github.com/4R9UN/ASRS-demo)** | `Multi-Agent SIEM` · `TypeScript` · `MCP` | Unified autonomous investigation platform spanning **Microsoft Sentinel, Splunk, Elastic Security & CrowdStrike Falcon**. Specialized **Triage**, **Deep Analysis**, and **Verdict** agents correlate alerts, entities, evidence timelines, confidence scores, and MITRE ATT&CK mappings. | [🔴 **Live Demo**](https://asrs-demo-v1.vercel.app/) · [Repo](https://github.com/4R9UN/ASRS-demo) |
+| **[mcp-kql-server](https://github.com/4R9UN/mcp-kql-server)** | `PyPI v2.1.5` · `Official MCP Registry` · `MseeP Verified` | Production MCP server for **schema-grounded NL2KQL**, strict query validation & auto-repair, semantic schema memory, secure Kusto execution, visual analysis, and **Azure Container Apps** deployment via Managed Identity & Bicep IaC. | [📦 **PyPI**](https://pypi.org/project/mcp-kql-server/) · [Repo](https://github.com/4R9UN/mcp-kql-server) |
+| **[fastmcp-threatintel](https://github.com/4R9UN/fastmcp-threatintel)** | `PyPI v0.2.7` · `MseeP Verified` · `40★ / 14 Forks` | AI-ready threat intelligence MCP server integrating **VirusTotal, AlienVault OTX, AbuseIPDB & IPinfo** with confidence-scored attribution, MITRE ATT&CK mapping, IOC graph relationships, D3.js visualization, and STIX output. | [📦 **PyPI**](https://pypi.org/project/fastmcp-threatintel/) · [Repo](https://github.com/4R9UN/fastmcp-threatintel) |
+| **[Assured-Arc](https://github.com/4R9UN/Assured-Arc)** | `Dual-Host Agent Harness` · `Copilot & Claude` · `AI Safety` | Portable workbench across **VS Code, GitHub Copilot CLI & Claude Code** with **CapScope per-worker capability ceilings**, `29` lazy-loaded skills, MCP tool-poisoning guards, and cryptographic nonce-verified scoreboards (`312` checks). | [🛡️ **Explore Harness**](https://github.com/4R9UN/Assured-Arc) |
+| **[Multi-Cloud Attack Coverage & Notebooks](https://github.com/4R9UN/Multi-Cloud-Notebooks)** | `1,000+ Enterprises` · `Sentinel` · `Jupyter / KQL` | Cross-cloud detection engineering and hunting notebooks across **Azure, AWS, GCP & Okta**; foundation for Microsoft Sentinel's **Multi Cloud Attack Coverage Essentials** solution (`1,000+` enterprise deployments). | [☁️ **Notebooks**](https://github.com/4R9UN/Multi-Cloud-Notebooks) · [Tech Community](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-multi-cloud-attack-coverage-essentials-solution/3839784) |
+| **[Prompt-Book](https://github.com/4R9UN/Prompt-Book)** | `Privacy-First AI Workspace` · `TypeScript` | Structured prompt-engineering workbench for repeatable security investigation workflows, adversarial red-team test cases, and agent prompt evaluation. | [📓 **Repo**](https://github.com/4R9UN/Prompt-Book) |
+
+---
+
+## 🏆 Recognition, Media & Thought Leadership
+
+- 🥇 **Winner — Microsoft Global Hackathon 2023** (*MSTICPy AI Assistant*); also served as **Hackathon Judge** and **Microsoft Security Hackathon 2025** innovator.
+- 🎙️ **Featured Guest — [AZ Security Podcast (Episode 27)](https://youtu.be/T0213_VfW7U):** Deep dive into `mcp-kql-server`, schema-grounded NL2KQL, advanced threat hunting, and AI-enabled SOC automation.
+- 📰 **Author — [MCP KQL Server Newsletter](https://arjuntrivedi.substack.com) (`1,900+` Subscribers) & `15+` Technical Publications:** Published across [Microsoft Tech Community](https://techcommunity.microsoft.com/users/arjun_trivedi/1208210) and [Arjun's Cyber Insights](https://arjun-trivedi.blogspot.com/), covering practical risks in cybersecurity agents, multi-cloud detections, and agentic defense.
+- 👨‍🏫 **Executive Mentorship & Community Builder:** Mentored **50+ security engineers and researchers** globally across detection engineering, AI security, and threat hunting.
+
+---
+
+## 💼 Career Trajectory & Education
+
+- **Microsoft · Senior Security Researcher | Detection Engineering & AI Security** (`Aug 2020 – Present`, Hyderabad, India): Multidisciplinary team management & end-to-end R&D-to-GA product delivery (`50+` mentored); Project Perception hunting agents; Security Copilot RAG grounding (`+35%` accuracy); AI Red Teaming; Applied ML (`-30%` FP); `200+` KQL rules (`-50%` MTTR); Multi Cloud Attack Coverage Essentials (`1,000+` enterprises); `50+` enterprise FDE escalations (`+20%` CSAT).
+- **Microsoft — Cyber Threat Hunter | Microsoft Threat Experts** (`Mar 2019 – Aug 2020`, India): Pioneer member of Microsoft Threat Experts on-demand service; Tier-1 hunting SME lead; cross-platform ML IOC detection pipelines & RE quality governance.
+- **Wipro — Malware Analyst** (`Jun 2017 – Feb 2019`, India): Android APK & native library reverse engineering (`IDA Pro`, `Ghidra`); PE/non-PE behavioral sandboxes; threat intelligence white papers.
+- **Sophos — Threat Researcher** (`Sep 2014 – May 2017`, India): Static/dynamic reverse engineering of bots, worms, ransomware & packed executables; behavioral detections protecting `100M+` users across `150` countries.
+- **Early Technical Foundations:** Confidential Government Defense Malware-Detection R&D Project (Python automation & exploit PoCs) + Cybersecurity & Programming Instructor.
+- **Education & Certifications:** **M.Sc. in Information Technology** (Amity University, `2015–2017`) · **B.Sc. in Computer Science (IT)** (K.R. Doshi Group of CS College, M.K. Bhavnagar University, `2013–2015`) · **SANS FOR578: Cyber Threat Intelligence** · **Microsoft SkillUp AI: Applied AI & Responsible AI Development** · **Cyber Security & Ethical Hacking** (Appin Technologies).
+
+---
+
+## 🛠️ Executive & Technical Stack
+
+| Domain | Capabilities & Technologies |
+| :--- | :--- |
+| **Agentic AI & AI Security** | Multi-Agent Systems · Model Context Protocol (`MCP` / `FastMCP`) · RAG & Vector Grounding · `NL2KQL` · Agent Evaluation · AI Red Teaming (Prompt Injection, Jailbreaks, Tool Abuse, AuthZ Boundaries, Excessive Agency) |
+| **Detection & Threat Research** | Microsoft Sentinel · Microsoft Defender XDR · `KQL` (200+ production rules) · UEBA · Identity & AiTM Detection · MITRE ATT&CK · Nation-State Campaign Tracking · Malware Reverse Engineering (`IDA Pro`, `Ghidra`) |
+| **Applied ML & Automation** | `Python` · `MSTICPy` · `Jupyter` · Random Forest · Gradient Boosting · Isolation Forest · One-Class SVM · YARA · STIX 2.1 |
+| **Cloud & Production Infra** | `Azure` · `AWS` · `GCP` · `Okta` · `Splunk` · `Elastic Security` · `Azure Data Explorer (Kusto)` · `TypeScript` · `FastAPI` · `Docker` · `Azure Container Apps` · `Bicep IaC` · Managed Identity |
+| **Executive Leadership** | Global Security Research & Applied Science Org Leadership · Technical Strategy & Roadmap Ownership · Vibe Research Platform Architecture · AI Forward Deployed Engineering (50+ Enterprises) · Research-to-Product Transfer |
+
+---
+
+<div align="center">
+
+### 🌐 Connect & Research Portfolio
+**Focus Areas:** `Agentic AI Security & MCP Servers` · `Detection Engineering & Threat Research` · `Vibe Research Platforms` · `Enterprise AI Defense`
+
+[![Visit Executive Portfolio](https://img.shields.io/badge/🚀_Explore_Interactive_Command_Center-4R9UN.github.io-00F0FF?style=for-the-badge&labelColor=060913)](https://4r9un.github.io)
+[![Connect on LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-imarjuntrivedi-0A66C2?style=for-the-badge&labelColor=060913)](https://www.linkedin.com/in/imarjuntrivedi/)
+[![Email Arjun](https://img.shields.io/badge/✉️_Email-arjuntrivedi42%40yahoo.com-10B981?style=for-the-badge&labelColor=060913)](mailto:arjuntrivedi42@yahoo.com)
 
 </div>
+**Agent Index:** [`llms.txt`](https://4r9un.github.io/llms.txt) · **JSON Resume:** [`resume.json`](https://4r9un.github.io/resume.json)

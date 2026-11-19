@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="100%" height="460" role="img" aria-label="Agentic Security Architecture and Multi-Stage Workflow Diagram">
+  <defs>
+    <linearGradient id="wfBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="50%" stop-color="#090f1f"/>
+      <stop offset="100%" stop-color="#060913"/>
+    </linearGradient>
+    <linearGradient id="stageCard" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#10182e" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#090e1c" stop-opacity="0.96"/>
+    </linearGradient>
+    <linearGradient id="flowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="35%" stop-color="#8b5cf6"/>
+      <stop offset="70%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <pattern id="wfGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1e293b" stroke-width="0.6" stroke-opacity="0.5"/>
+    </pattern>
+    <marker id="arrowCyan" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 9 5 L 0 9 z" fill="#00f0ff"/>
+    </marker>
+    <marker id="arrowViolet" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 9 5 L 0 9 z" fill="#8b5cf6"/>
+    </marker>
+    <marker id="arrowEmerald" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 9 5 L 0 9 z" fill="#10b981"/>
+    </marker>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect x="2" y="2" width="1196" height="456" rx="18" fill="url(#wfBg)" stroke="#1e293b" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="456" rx="18" fill="url(#wfGrid)"/>
+
+  <!-- Header Bar -->
+  <g transform="translate(32, 22)">
+    <rect x="0" y="0" width="210" height="26" rx="6" fill="#0d1e38" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="1"/>
+    <text x="12" y="17" fill="#00f0ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="700">/agentic-defense-pipeline</text>
+    <text x="226" y="18" fill="#f8fafc" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="17" font-weight="700">Autonomous Security Operations, MCP Context Grounding &amp; AI Red-Team Guardrails</text>
+    <text x="0" y="46" fill="#94a3b8" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12.5">End-to-end production architecture connecting multi-cloud SIEM/XDR telemetry, verified MCP servers, multi-agent reasoning, and enterprise SOC outcomes.</text>
+  </g>
+
+  <!-- Horizontal Connector Backbone -->
+  <line x1="286" y1="234" x2="318" y2="234" stroke="#00f0ff" stroke-width="2.5" stroke-dasharray="4 3" marker-end="url(#arrowCyan)"/>
+  <line x1="578" y1="234" x2="610" y2="234" stroke="#8b5cf6" stroke-width="2.5" stroke-dasharray="4 3" marker-end="url(#arrowViolet)"/>
+  <line x1="870" y1="234" x2="902" y2="234" stroke="#10b981" stroke-width="2.5" stroke-dasharray="4 3" marker-end="url(#arrowEmerald)"/>
+
+  <!-- ==================== STAGE 1: TELEMETRY & CTI INGESTION ==================== -->
+  <g transform="translate(32, 86)">
+    <rect x="0" y="0" width="254" height="304" rx="14" fill="url(#stageCard)" stroke="#00f0ff" stroke-opacity="0.55" stroke-width="1.5"/>
+    <rect x="0" y="0" width="254" height="38" rx="14" fill="#0b223d"/>
+    <text x="16" y="24" fill="#00f0ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="700">STAGE 01 // TELEMETRY &amp; CTI</text>
+
+    <!-- Node 1.1 -->
+    <g transform="translate(14, 52)">
+      <rect x="0" y="0" width="226" height="52" rx="8" fill="#0c1528" stroke="#1e293b" stroke-width="1"/>
+      <circle cx="16" cy="20" r="4" fill="#00f0ff"/>
+      <text x="28" y="23" fill="#f1f5f9" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700">SIEM &amp; XDR Mesh</text>
+      <text x="28" y="40" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5">Sentinel · Defender XDR · Splunk</text>
+    </g>
+    <!-- Node 1.2 -->
+    <g transform="translate(14, 114)">
+      <rect x="0" y="0" width="226" height="52" rx="8" fill="#0c1528" stroke="#1e293b" stroke-width="1"/>
+      <circle cx="16" cy="20" r="4" fill="#38bdf8"/>
+      <text x="28" y="23" fill="#f1f5f9" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700">Multi-Cloud &amp; Identity</text>
+      <text x="28" y="40" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5">Azure · AWS · GCP · Okta · AiTM</text>
+    </g>
+    <!-- Node 1.3 -->
+    <g transform="translate(14, 176)">
+      <rect x="0" y="0" width="226" height="52" rx="8" fill="#0c1528" stroke="#1e293b" stroke-width="1"/>
+      <circle cx="16" cy="20" r="4" fill="#00f0ff"/>
+      <text x="28" y="23" fill="#f1f5f9" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700">External Threat Intel</text>
+      <text x="28" y="40" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5">VirusTotal · OTX · AbuseIPDB</text>
+    </g>
+    <!-- Stage 1 Footer Tag -->
+    <g transform="translate(14, 242)">
+      <rect x="0" y="0" width="226" height="46" rx="8" fill="#071a2e" stroke="#00f0ff" stroke-opacity="0.35" stroke-width="1"/>
+      <text x="12" y="19" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700">COVERAGE ASSET</text>
+      <text x="12" y="35" fill="#e2e8f0" font-family="system-ui, -apple-system, sans-serif" font-size="11.5" font-weight="600">200+ KQL Rules &amp; UEBA Models</text>
+    </g>
+  </g>
+
+  <!-- ==================== STAGE 2: MCP CONTEXT & GROUNDING ==================== -->
+  <g transform="translate(324, 86)">
+    <rect x="0" y="0" width="254" height="304" rx="14" fill="url(#stageCard)" stroke="#8b5cf6" stroke-opacity="0.65" stroke-width="1.5"/>
+    <rect x="0" y="0" width="254" height="38" rx="14" fill="#1d143d"/>
+    <text x="16" y="24" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="700">STAGE 02 // MCP GROUNDING</text>
+
+    <!-- Node 2.1 -->
+    <g transform="translate(14, 52)">
+      <rect x="0" y="0" width="226" height="72" rx="8" fill="#131129" stroke="#8b5cf6" stroke-opacity="0.45" stroke-width="1"/>
+      <text x="12" y="20" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="700">mcp-kql-server (v2.1.5)</text>
+      <text x="12" y="38" fill="#cbd5e1" font-family="system-ui, -apple-system, sans-serif" font-size="11">Schema-grounded NL2KQL, semantic</text>
+      <text x="12" y="54" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">memory, AST validation &amp; auto-repair</text>
+    </g>
+    <!-- Node 2.2 -->
+    <g transform="translate(14, 134)">
+      <rect x="0" y="0" width="226" height="72" rx="8" fill="#131129" stroke="#8b5cf6" stroke-opacity="0.45" stroke-width="1"/>
+      <text x="12" y="20" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="700">fastmcp-threatintel (v0.2.7)</text>
+      <text x="12" y="38" fill="#cbd5e1" font-family="system-ui, -apple-system, sans-serif" font-size="11">Confidence-scored CTI attribution,</text>
+      <text x="12" y="54" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">MITRE ATT&amp;CK mapping &amp; STIX 2.1</text>
+    </g>
+    <!-- Node 2.3 -->
+    <g transform="translate(14, 216)">
+      <rect x="0" y="0" width="226" height="72" rx="8" fill="#131129" stroke="#8b5cf6" stroke-opacity="0.45" stroke-width="1"/>
+      <text x="12" y="20" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="700">Security Copilot RAG Layer</text>
+      <text x="12" y="38" fill="#cbd5e1" font-family="system-ui, -apple-system, sans-serif" font-size="11">Vector/token optimization &amp; context</text>
+      <text x="12" y="54" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700">→ +35% Summarization Accuracy</text>
+    </g>
+  </g>
+
+  <!-- ==================== STAGE 3: MULTI-AGENT REASONING & GUARDRAILS ==================== -->
+  <g transform="translate(616, 86)">
+    <rect x="0" y="0" width="254" height="304" rx="14" fill="url(#stageCard)" stroke="#f59e0b" stroke-opacity="0.65" stroke-width="1.5"/>
+    <rect x="0" y="0" width="254" height="38" rx="14" fill="#2d1d0b"/>
+    <text x="16" y="24" fill="#fbbf24" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="700">STAGE 03 // AGENTIC REASONING</text>
+
+    <!-- Node 3.1 -->
+    <g transform="translate(14, 52)">
+      <rect x="0" y="0" width="226" height="54" rx="8" fill="#171412" stroke="#f59e0b" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="12" y="21" fill="#fbbf24" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700">ASRS Multi-Agent Orchestrator</text>
+      <text x="12" y="39" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5">Triage → Deep Analysis → Verdict</text>
+    </g>
+    <!-- Node 3.2 -->
+    <g transform="translate(14, 116)">
+      <rect x="0" y="0" width="226" height="54" rx="8" fill="#171412" stroke="#f59e0b" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="12" y="21" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700">Microsoft Project Perception</text>
+      <text x="12" y="39" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5">Evidence-grade hunting &amp; oversight</text>
+    </g>
+    <!-- Node 3.3: AI Red Team Gate -->
+    <g transform="translate(14, 180)">
+      <rect x="0" y="0" width="226" height="56" rx="8" fill="#28111b" stroke="#f43f5e" stroke-opacity="0.65" stroke-width="1.2"/>
+      <text x="12" y="21" fill="#fda4af" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700">🛡️ AI RED-TEAM SECURITY GATE</text>
+      <text x="12" y="39" fill="#fecdd3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">Prompt-Injection · Tool-Abuse · AuthZ</text>
+    </g>
+    <!-- Node 3.4: Assured Arc -->
+    <g transform="translate(14, 244)">
+      <rect x="0" y="0" width="226" height="44" rx="8" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="12" y="19" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700">ASSURED-ARC HARNESS</text>
+      <text x="12" y="34" fill="#cbd5e1" font-family="system-ui, -apple-system, sans-serif" font-size="11">Bounded-loop verification &amp; audit</text>
+    </g>
+  </g>
+
+  <!-- ==================== STAGE 4: PRODUCTION ENTERPRISE OUTCOMES ==================== -->
+  <g transform="translate(908, 86)">
+    <rect x="0" y="0" width="260" height="304" rx="14" fill="url(#stageCard)" stroke="#10b981" stroke-opacity="0.7" stroke-width="1.5"/>
+    <rect x="0" y="0" width="260" height="38" rx="14" fill="#082e26"/>
+    <text x="16" y="24" fill="#6ee7b7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="700">STAGE 04 // DEFENDER IMPACT</text>
+
+    <!-- Outcome 1 -->
+    <g transform="translate(14, 52)">
+      <rect x="0" y="0" width="232" height="54" rx="8" fill="#091f1c" stroke="#10b981" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="14" y="24" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" font-weight="800">-50% MTTR</text>
+      <text x="14" y="42" fill="#cbd5e1" font-family="system-ui, -apple-system, sans-serif" font-size="11">Faster Enterprise Incident Response</text>
+    </g>
+    <!-- Outcome 2 -->
+    <g transform="translate(14, 114)">
+      <rect x="0" y="0" width="232" height="54" rx="8" fill="#091f1c" stroke="#10b981" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="14" y="24" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" font-weight="800">-30% False Positives</text>
+      <text x="14" y="42" fill="#cbd5e1" font-family="system-ui, -apple-system, sans-serif" font-size="11">Production ML Telemetry Filtering</text>
+    </g>
+    <!-- Outcome 3 -->
+    <g transform="translate(14, 176)">
+      <rect x="0" y="0" width="232" height="54" rx="8" fill="#091f1c" stroke="#10b981" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="14" y="24" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" font-weight="800">-60% Hunt Effort</text>
+      <text x="14" y="42" fill="#cbd5e1" font-family="system-ui, -apple-system, sans-serif" font-size="11">20+ MSTICPy &amp; Jupyter Automations</text>
+    </g>
+    <!-- Outcome 4 -->
+    <g transform="translate(14, 238)">
+      <rect x="0" y="0" width="232" height="52" rx="8" fill="#091f1c" stroke="#10b981" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="14" y="23" fill="#fbbf24" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" font-weight="800">1,000+ Enterprises</text>
+      <text x="14" y="41" fill="#cbd5e1" font-family="system-ui, -apple-system, sans-serif" font-size="11">Multi-Cloud Sentinel Essentials</text>
+    </g>
+  </g>
+
+  <!-- Bottom Telemetry Status Strip -->
+  <g transform="translate(32, 408)">
+    <rect x="0" y="0" width="1136" height="32" rx="8" fill="#0b1325" stroke="#1e293b" stroke-width="1"/>
+    <text x="18" y="20" fill="#00f0ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700">VERIFIED REGISTRIES:</text>
+    <text x="172" y="20" fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">Official MCP Registry · PyPI (mcp-kql-server 2.1.5 / fastmcp-threatintel 0.2.7) · MseeP Verified · Live ASRS Demo</text>
+  </g>
+</svg>
