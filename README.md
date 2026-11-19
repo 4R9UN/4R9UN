@@ -31,7 +31,9 @@
 </td>
 <td valign="middle">
 
-**Executive Security Research, Applied Science & Agentic AI Leader** with **12+ years** in cybersecurity and **7+ years at Microsoft**. I lead global **Security Research & Applied Science teams** at Microsoft—combining executive people leadership, organizational strategy, and mentorship with deep hands-on technical architecture to invent and ship breakthrough **Agentic AI**, **Production MCP Servers**, **Vibe Research Platforms**, and autonomous defense solutions across product engineering, data science, SOC operations, and enterprise customers.
+**Canonical Portfolio & Interactive Architecture Lab:** [**https://4r9un.github.io/**](https://4r9un.github.io/) · **AI / Agent Index (`llms.txt`):** [`4r9un.github.io/llms.txt`](https://4r9un.github.io/llms.txt) · **Full Markdown Dossier:** [`4r9un.github.io/index.md`](https://4r9un.github.io/index.md)
+
+**Senior Security Researcher at Microsoft** (AI Security, Agentic Systems & Detection Engineering) with **12+ years** in cybersecurity and **7+ years at Microsoft**. I lead global **Security Research & Applied Science teams** at Microsoft—combining executive people leadership, organizational strategy, and mentorship with deep hands-on technical architecture to invent and ship breakthrough **Agentic AI**, **Production MCP Servers**, **Vibe Research Platforms**, and autonomous defense solutions across product engineering, data science, SOC operations, and enterprise customers.
 
 My work sits at the intersection of **Autonomous Security Agents (MCP / Multi-Agent Reasoning)**, **AI Red Teaming & Guardrails**, **Forward-Deployed Enterprise Execution (FDE)**, and **Planet-Scale Detection Engineering & Applied ML**—turning complex nation-state, multi-cloud, and AI security challenges into shipped Microsoft capabilities (**Project Perception**, **Security Copilot**) protecting **1,000+ enterprises** and **100M+ users across 150 countries**.
 
@@ -82,7 +84,9 @@ Add both verified MCP servers to your **Claude Desktop**, **GitHub Copilot CLI**
 - **Install `Assured-Arc` Multi-Agent Security Harness for GitHub Copilot:**
 ```powershell
 git clone https://github.com/4R9UN/Assured-Arc.git
-pwsh -File .\Assured-Arc\scripts\install.ps1 -Profile full -Target both
+Set-Location Assured-Arc
+.\install.ps1 -Profile CopilotCli -DryRun
+.\install.ps1 -Profile CopilotCli
 ```
 
 ---
@@ -147,7 +151,7 @@ pwsh -File .\Assured-Arc\scripts\install.ps1 -Profile full -Target both
 ## 🏆 Recognition, Media & Thought Leadership
 
 - 🥇 **Winner — Microsoft Global Hackathon 2023** (*MSTICPy AI Assistant*); also served as **Hackathon Judge** and **Microsoft Security Hackathon 2025** innovator.
-- 🎙️ **Featured Guest — [AZ Security Podcast (Episode 27)](https://www.youtube.com/watch?v=c8g4b7_1vXo):** Deep dive into `mcp-kql-server`, schema-grounded NL2KQL, advanced threat hunting, and AI-enabled SOC automation.
+- 🎙️ **Featured Guest — [AZ Security Podcast (Episode 27)](https://youtu.be/T0213_VfW7U):** Deep dive into `mcp-kql-server`, schema-grounded NL2KQL, advanced threat hunting, and AI-enabled SOC automation.
 - 📰 **Author — [MCP KQL Server Newsletter](https://arjuntrivedi.substack.com) (`1,900+` Subscribers) & `15+` Technical Publications:** Published across [Microsoft Tech Community](https://techcommunity.microsoft.com/users/arjun_trivedi/1208210) and [Arjun's Cyber Insights](https://arjun-trivedi.blogspot.com/), covering practical risks in cybersecurity agents, multi-cloud detections, and agentic defense.
 - 👨‍🏫 **Executive Mentorship & Community Builder:** Mentored **50+ security engineers and researchers** globally across detection engineering, AI security, and threat hunting.
 
