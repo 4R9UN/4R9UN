@@ -31,7 +31,7 @@
 </td>
 <td valign="middle">
 
-**Canonical Portfolio & Architecture Lab:** [**https://4r9un.github.io/**](https://4r9un.github.io/) · **LinkedIn:** [**in/imarjuntrivedi**](https://www.linkedin.com/in/imarjuntrivedi/) · 
+**Canonical Portfolio & Architecture Lab:** [**https://4r9un.github.io/**](https://4r9un.github.io/) · **LinkedIn:** [**in/imarjuntrivedi**](https://www.linkedin.com/in/imarjuntrivedi/)
 
 **Senior Security Researcher | Detection Engineering & AI Security at Microsoft** with **12+ years** in cybersecurity and **7+ years at Microsoft**. Experienced in leading and managing global multidisciplinary detection engineering, security research, and SecOps teams (`50+` engineers mentored) and shipping breakthrough **Agentic AI**, **Official MCP Registry Servers**, and autonomous defense platforms end to end from ambiguous R&D prototypes to enterprise GA scale.
 

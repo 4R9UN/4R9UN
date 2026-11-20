@@ -1,0 +1,52 @@
+<svg width="495" height="195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .header { fill: #00FF41; font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .stat { fill: #FFFFFF; font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .bold { font-weight: 700; }
+      .icon { fill: #FF0080; }
+    </style>
+  </defs>
+  
+  <rect width="495" height="195" fill="#0D1117" stroke="#FF0080" stroke-width="1" rx="4.5"/>
+  
+  <g transform="translate(25, 35)">
+    <text class="header" x="0" y="0">4R9UN's GitHub Stats</text>
+    
+    <g transform="translate(0, 40)">
+      <svg class="icon" x="0" y="-12" width="16" height="16" viewBox="0 0 16 16">
+        <path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
+      </svg>
+      <text class="stat" x="25" y="0">Total Stars: <tspan class="bold">150+</tspan></text>
+    </g>
+    
+    <g transform="translate(0, 65)">
+      <svg class="icon" x="0" y="-12" width="16" height="16" viewBox="0 0 16 16">
+        <path d="M1.5 3.25a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM5 3.25a.75.75 0 100 1.5.75.75 0 000-1.5zM3.25 12a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+      </svg>
+      <text class="stat" x="25" y="0">Total Commits (2024): <tspan class="bold">800+</tspan></text>
+    </g>
+    
+    <g transform="translate(0, 90)">
+      <svg class="icon" x="0" y="-12" width="16" height="16" viewBox="0 0 16 16">
+        <path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+      </svg>
+      <text class="stat" x="25" y="0">Total PRs: <tspan class="bold">50+</tspan></text>
+    </g>
+    
+    <g transform="translate(250, 40)">
+      <svg class="icon" x="0" y="-12" width="16" height="16" viewBox="0 0 16 16">
+        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+        <path d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+      </svg>
+      <text class="stat" x="25" y="0">Total Issues: <tspan class="bold">30+</tspan></text>
+    </g>
+    
+    <g transform="translate(250, 65)">
+      <svg class="icon" x="0" y="-12" width="16" height="16" viewBox="0 0 16 16">
+        <path d="M11.93 8.5a4.002 4.002 0 01-7.86 0H.75a.75.75 0 010-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 010 1.5h-3.32zM8 6a2 2 0 100 4 2 2 0 000-4z"/>
+      </svg>
+      <text class="stat" x="25" y="0">Contributed to: <tspan class="bold">20+ repos</tspan></text>
+    </g>
+  </g>
+</svg>
